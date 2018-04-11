@@ -20,5 +20,8 @@ maths_path: "/maths/"
 # Day 2 Paths
 steam_path: "/day2/"
 
+plugins:
+  - jekyll-redirect-from
+
 # Build settings
 markdown: kramdown
