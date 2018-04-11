@@ -23,5 +23,8 @@ steam_path: "/day2/"
 plugins:
   - jekyll-redirect-from
 
+whitelist:
+  - jekyll-redirect-from
+
 # Build settings
 markdown: kramdown
