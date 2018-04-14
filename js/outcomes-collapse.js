@@ -68,7 +68,6 @@ $(document).ready(function() {
 					outcome_section_content = outcome_section_content.replace(/COLLAPSE_ID/g, "collapse-" + outcome["header_id"]);
 					outcome_section_content = outcome_section_content.replace(/HEADING_GOES_HERE/g, outcome["header_text"]);
 					outcome_section_content = outcome_section_content.replace(/CONTENT_GOES_HERE/g, outcome["content"]);
-					console.log(outcome_section_content);
 					added_outcome.html(outcome_section_content);
 			});
 		});
