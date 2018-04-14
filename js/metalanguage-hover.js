@@ -7,7 +7,6 @@ $(document).ready(function() {
 	$.each(metalanguage_terms, function(index, term) {
 
 		var term_id = term.innerText.toLowerCase().replace(/ /g, "-");
-		console.log(term);
 		$(this).prop("href", "../glossary/index.html#" + term_id);
 
 		term.id = "metalanguage-" + term_id 
@@ -28,6 +27,7 @@ $(document).ready(function() {
 			tippy("#metalanguage-" + term_id, {
 				html: "#" + term_id + "-template",
 				size: "large",
+				theme: "light"
 			});
 		});
 	});
