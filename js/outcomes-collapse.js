@@ -5,6 +5,7 @@ $(document).ready(function() {
 
 	if (header_elements.length !== 0) {
 
+		// Get all of the outcomes and tables into an array, removing this text from the page (to be put into an accordion in the next steps)
 		$.each(header_elements, function(index, header_element) {
 
 			outcome = {};
@@ -34,6 +35,7 @@ $(document).ready(function() {
 		});
 	}
 
+	// Create the accordion control that shows the outcomes that the session covers
 	if (outcomes.length !== 0) {
 
 		var session_outcomes_div = $("#session-outcomes");
@@ -42,10 +44,12 @@ $(document).ready(function() {
 
 		var outcome_section_template = '';
 
+		// For each set of outcomes, there will be a panel in the accordion
 		$.each(outcomes, function(index, outcome) {
 
 			var added_outcome = $("<div id='card-" + outcome["header_id"] +  "' class='card'></div>");
 
+			// Determine where the outcome panel of the accordion should be placed
 			if (index === 0) {
 				accordion_div.append(added_outcome);
 			} else {
@@ -53,6 +57,7 @@ $(document).ready(function() {
 				last_card_element.after(added_outcome);
 			}
 
+			// Load the template that has the card and panel and replace it with appropriate content
 			$("#card-" + outcome["header_id"])
 				.first()
 				.load("../../js/outcomes_template.html", function() {
@@ -65,9 +70,7 @@ $(document).ready(function() {
 					outcome_section_content = outcome_section_content.replace(/CONTENT_GOES_HERE/g, outcome["content"]);
 					console.log(outcome_section_content);
 					added_outcome.html(outcome_section_content);
-				});
-
+			});
 		});
-
 	}
 });
