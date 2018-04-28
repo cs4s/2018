@@ -13,7 +13,7 @@ In the session’s activities, you will find out what *Coding* and *Computationa
 
 ## Metalanguage
 
-[algorithm](a){: .metalanguage }, [computational thinking](){: .metalanguage }, [coding](){: .metalanguage }, [visual programming](){: .metalanguage }, [sequencing](){: .metalanguage }
+[algorithm](){: .metalanguage }, [computational thinking](){: .metalanguage }, [coding](){: .metalanguage }, [visual programming](){: .metalanguage }, [sequencing](){: .metalanguage }
 
 ## Materials
 
