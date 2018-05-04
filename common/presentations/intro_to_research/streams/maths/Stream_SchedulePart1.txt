@@ -1,0 +1,7 @@
+Session                               |  Date and Time
+---------------------------------------|-----------------------------------
+Week 1: An Introduction to Scratch     |  Monday 14 May 4:30pm - 6:30pm
+Week 2: Teaching Coding with Scratch   |  Monday 21 May 4:30pm - 6:30pm
+Week 3: Tiling Patterns Part 1         |  Monday 28 May 4:30pm - 6:30pm
+Week 4: Tiling Patterns Part 2         |  Monday 4 June 4:30pm - 6:30pm
+Week 5: Beetle Geometry Part 1         |  Tuesday 12 June 4:30pm - 6:30pm

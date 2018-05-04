@@ -1,0 +1,7 @@
+Session                                        |  Date and Time
+------------------------------------------------|----------------------------------
+Week 1: An Introduction to Coding with Scratch  |  Friday 18 May 4:30pm - 6:30pm
+Week 2: Teaching Coding with Scratch            |  Friday 25 May 4:30pm - 6:30pm
+Week 3: Coding and the Creative Arts Part 1     |  Friday 1 June 4:30pm - 6:30pm
+Week 4: Coding and the Creative Arts Part 2     |  Friday 8 June 4:30pm - 6:30pm
+Week 5: Coding and English Part 1               |  Friday 15 June 4:30pm - 6:30pm

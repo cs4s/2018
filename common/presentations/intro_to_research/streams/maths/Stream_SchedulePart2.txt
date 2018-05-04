@@ -1,0 +1,7 @@
+Session                                              |  Date and Time
+------------------------------------------------------|----------------------------------
+Week 6: Beetle Geometry Part 2                        |  Monday 18 June 4:30pm - 6:30pm
+Week 7: Interacting Sprites Part 1                    |  Monday 25 June 4:30pm - 6:30pm
+Week 8: Interacting Sprites Part 2                    |  Monday 2 July 4:30pm - 6:30pm
+Week 9: Exploring Mathematical Relationships Part 1   |  TBC
+Week 10: Exploring Mathematical Relationships Part 2  |  TBC
