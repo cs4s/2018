@@ -1,6 +1,6 @@
-# Coding in Stage 3
+# An Introduction to the Program
 
-## {Stream_Title}
+## Coding in Stage 3: {Stream_Title}
 
 ### Mr Daniel Hickmott & {Stream_Presenter}
 

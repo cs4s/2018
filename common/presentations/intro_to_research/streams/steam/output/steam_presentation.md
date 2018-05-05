@@ -1,6 +1,6 @@
-# Coding in Stage 3
+# An Introduction to the Program
 
-## Coding & STEAM
+## Coding in Stage 3: Coding & STEAM
 
 ### Mr Daniel Hickmott & Mr Andrew Lyell
 

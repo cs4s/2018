@@ -1,6 +1,6 @@
-# Coding in Stage 3
+# An Introduction to the Program
 
-## ScratchMaths
+## Coding in Stage 3: ScratchMaths
 
 ### Mr Daniel Hickmott & Dr Elena Prieto-Rodriguez
 
