@@ -19,9 +19,9 @@ In this session’s activities, you will find out what *Coding* and *Computation
 
 ### Presentations
 
-- [An Introduction to the Program](https://uoneduau-my.sharepoint.com/personal/c3129732_uon_edu_au/Documents/Shared%20with%20Everyone/CS3/ScratchMaths/Presentations/Week1/intro_to_the_program.pdf){:target="_blank"} (PDF Presentation)
-- [An Introduction to Coding](https://uoneduau-my.sharepoint.com/personal/c3129732_uon_edu_au/Documents/Shared%20with%20Everyone/CS3/ScratchMaths/Presentations/Week1/intro_to_coding.pdf){:target="_blank"} (PDF Presentation)
-- [An Introduction to Scratch](https://uoneduau-my.sharepoint.com/personal/c3129732_uon_edu_au/Documents/Shared%20with%20Everyone/CS3/ScratchMaths/Presentations/Week1/intro_to_scratch.pdf){:target="_blank"} (PDF Presentation)
+- [An Introduction to the Program](https://drive.google.com/uc?export=view&id=1PGhU6THlRK9hcxhC4qVOCttQqduHKYM6){:target="_blank"} (PDF Presentation)
+- [An Introduction to Coding](https://drive.google.com/uc?export=view&id=1qFBEuYVQbkzvVGeSGsnclef6Cks38vC7){:target="_blank"} (PDF Presentation)
+- [An Introduction to Scratch](https://drive.google.com/uc?export=view&id=1DMvvETbOWFt7YwHWH9DWxNiycC5bfVmp){:target="_blank"} (PDF Presentation)
 - Computational Concepts with Scratch (PDF Presentation)
 - Session Wrap-up (PDF Presentation)
 
@@ -32,7 +32,7 @@ In this session’s activities, you will find out what *Coding* and *Computation
 
 ### Activities
 
-- [Getting Started with Scratch](https://uoneduau-my.sharepoint.com/:w:/r/personal/c3129732_uon_edu_au/_layouts/15/Doc.aspx?sourcedoc=%7B8863251c-6f89-4d4a-9cdb-f29b9fa3779c%7D&action=default) (Word document)
+- [Getting Started with Scratch](https://drive.google.com/uc?export=view&id=1bvg9zIKCQvXNy2bYYiRz_jqQfXkMP8cE) (Word document)
 - Computational Concepts with Scratch (Word document)
 
 <!--
