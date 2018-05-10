@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+
+    <main role="main" class="container">
+      <div id="test"></div>
+      {{ content }}
+
+      {% include footer.html %}
+    </main>
+
+  </body>
+
+  {% include scripts.html %}
+  <script src="{{ "/js/answers-collapse.js" | prepend: site.baseurl }}" type="text/javascript"></script>
+  <script src="{{ "/js/scratchblocks-v3.2-min.js" | prepend: site.baseurl }}" type="text/javascript"></script>
+  <script>
+    // Script to turn the blocks of Scratch Text Code into images of actual Scratch Blocks
+    $(document).ready(function() {
+      
+      var preBlocks = $("pre");
+      $.each(preBlocks, function(preIndex, preBlock) {
+
+          $.each(preBlock.children, function(childIndex, codeBlock) {
+
+            // Parse the contennts of the code block with ScratchBlocks library
+            var doc = scratchblocks.parse(codeBlock.innerHTML);
+            doc.render(function (svg) {
+
+              // Create the Div element that the Scratch blocks will go into
+              var answerId = "answer-" + preIndex + "_" + childIndex;
+              var answerDiv = $("<div id=\"" + answerId + "\" class=\"scratch-blocks\"></div>");
+              answerDiv[0].appendChild(svg);
+
+              // Add the SVG to the DOM and remove the text Code
+              preBlock.after(answerDiv[0]);
+              preBlock.remove();
+
+            });
+          });
+        });
+      });
+  </script>
+</html>
