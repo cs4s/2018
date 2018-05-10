@@ -236,3 +236,15 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 .scratch-blocks {
   padding: 0.6em;
 }
+
+.accordion-header {
+  padding: 0.2em;
+}
+
+.exercise-header, .section-header {
+  margin-top: 1em;
+}
+
+.outcome-body {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
