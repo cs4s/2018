@@ -5,11 +5,11 @@ title: Coding in Stage 3 - Coding & STEAM - Week 1
 
 # Week 1: An Introduction to Scratch
 
-## Exercises
+## Homework Exercises
 
 This page includes some exercises that you can complete to check your understanding of the concepts that you learned about in the Week 1 session of the Coding in Stage 3 program.
-The exercises are split into sections for different **computational concepts:** *Sequences*, *Repetition* and *Conditionals*, as well as a section for *User Input*.
-The answer to each of the exercises can be viewed by clicking the Answer section after each question.
+The exercises are split into sections for different **computational concepts:** *Sequences*, *Loops*, *Data* and *Conditionals*, as well as a section for *User Input*.
+The answer to each of the exercises can be viewed by clicking the Answer button after each question.
 If you have any questions about these exercises or need further explanations of the answers, please let us know.
 
 ## Sequences
