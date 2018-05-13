@@ -9,7 +9,7 @@ title: Coding in Stage 3 - ScratchMaths - Week 1
 
 In this session, we will give an overview of the entire Professional Learning program. We will also explain the research project that this program is a part of.
 
-In this session’s activities, you will find out what *Coding* and *Computational Thinking* are and the main reasons why these skills are being introduced into K-6.  You will learn about *Scratch*, the free *Coding* language and community that is commonly used when teaching *Computational Thinking* in K-6. You will also create a program in *Scratch* that combines three essential **computational concepts**: *sequences*, *loops* and *conditionals*.
+In this session’s activities, you will find out what *Coding* and *Computational Thinking* are and the main reasons why these skills are being introduced into K-6.  You will learn about *Scratch*, the free *Coding* language and community that is commonly used when teaching *Computational Thinking* in K-6. You will also create a program in *Scratch* that combines some essential **computational concepts**: *Sequences*, *Loops*, *Events*, *Data* and *Conditionals*.
 
 ## Metalanguage
 
@@ -23,7 +23,7 @@ In this session’s activities, you will find out what *Coding* and *Computation
 - [An Introduction to Coding](https://drive.google.com/uc?export=view&id=1qFBEuYVQbkzvVGeSGsnclef6Cks38vC7){:target="_blank"} (PDF Presentation)
 - [An Introduction to Scratch](https://drive.google.com/uc?export=view&id=1DMvvETbOWFt7YwHWH9DWxNiycC5bfVmp){:target="_blank"} (PDF Presentation)
 - [Computational Concepts with Scratch](https://drive.google.com/uc?export=view&id=1EEBuEKaSMfJ7DVK3gj4Wd_UGin-gI5Ns){:target="_blank"} (PDF Presentation)
-- Session Wrap-up (PDF Presentation)
+- [Session Wrap-up](https://drive.google.com/uc?export=view&id=1p_O2nzclc1GPR5vmv27AaZli6HPpgKy4){:target="_blank"} (PDF Presentation)
 
 ### Activities
 
@@ -32,18 +32,14 @@ In this session’s activities, you will find out what *Coding* and *Computation
 
 ### Homework
 
+- [Week 1 Homework Tasks](https://drive.google.com/uc?export=view&id=1MMVUPy6adNyUeUXdfzoqcADrMoQWWhwp) (Word document)
 - [Week 1 Homework Exercises](exercises)
-- Week 1 Task (Word document)
-
-<!-- 
-- [Week 1 Task]() (Word document)
--->
 
 ## Links
 
 - [Scratch Website](https://scratch.mit.edu/){:target="_blank"}
 - [Workshop Survey](https://www.surveymonkey.com/r/uon_coding_session1){:target="_blank"}
-- [Weekly Journal Survey](https://www.surveymonkey.com/r/uon_coding_journal){:target="_blank"}
+- [Journal Survey](https://www.surveymonkey.com/r/uon_coding_journal){:target="_blank"}
 - [Registration Survey](https://www.surveymonkey.com/r/uon_coding_registration){:target="_blank"}
 
 ## Related Research

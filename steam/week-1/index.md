@@ -9,7 +9,7 @@ title: Coding in Stage 3 - Coding & STEAM - Week 1
 
 In this session, we will give an overview of the entire Professional Learning program. We will also explain the research project that this program is a part of.
 
-In this session’s activities, you will find out what *Coding* and *Computational Thinking* are and the main reasons why these skills are being introduced into K-6.  You will learn about *Scratch*, the free *Coding* language and community that is commonly used when teaching *Computational Thinking* in K-6. You will also create a program in *Scratch* that combines three essential **computational concepts**: *sequences*, *loops* and *conditionals*.
+In this session’s activities, you will find out what *Coding* and *Computational Thinking* are and the main reasons why these skills are being introduced into K-6.  You will learn about *Scratch*, the free *Coding* language and community that is commonly used when teaching *Computational Thinking* in K-6. You will also create a program in *Scratch* that combines some essential **computational concepts**: *Sequences*, *Loops*, *Events*, *Data* and *Conditionals*.
 
 ## Metalanguage
 
@@ -23,28 +23,23 @@ In this session’s activities, you will find out what *Coding* and *Computation
 - [An Introduction to Coding](https://drive.google.com/uc?export=view&id=1kT3nlpWJheCzcM9ou5amz8i81rMvX706){:target="_blank"} (PDF Presentation)
 - [An Introduction to Scratch](https://drive.google.com/uc?export=view&id=1YCJlUv7PPytDEBFSu_J7euLy2Zo6Ln5r){:target="_blank"} (PDF Presentation)
 - [Computational Concepts with Scratch](https://drive.google.com/uc?export=view&id=1CE1LgyUqAZANKBWqGzrZAHe8_2-ky8df){:target="_blank"} (PDF Presentation)
-- Session Wrap-up and Homework (PDF Presentation)
+- [Session Wrap-up and Homework](https://drive.google.com/uc?export=view&id=1SADNmwFi35uXlNJCxDp_7WJpXjJWI5ax){:target="_blank"} (PDF Presentation)
 
 ### Activities
 
 - [Getting Started with Scratch](https://drive.google.com/uc?export=view&id=1bvg9zIKCQvXNy2bYYiRz_jqQfXkMP8cE) (Word document)
 - [Computational Concepts with Scratch](https://drive.google.com/uc?export=view&id=1uvCJlLyWgnh0WzOGUHBEaYDSAPvbi6BY) (Word document)
 
-
 ### Homework
 
+- [Week 1 Homework Tasks](https://drive.google.com/uc?export=view&id=1MMVUPy6adNyUeUXdfzoqcADrMoQWWhwp) (Word document)
 - [Week 1 Homework Exercises](exercises)
-- [Week 1 Homework Details] (Word document)
 
-<!--
-    - [Week 1 Homework]()
--->
-
-## Links
+### Links
 
 - [Scratch Website](https://scratch.mit.edu/){:target="_blank"}
 - [Workshop Survey](https://www.surveymonkey.com/r/uon_coding_session1){:target="_blank"}
-- [Weekly Journal Survey](https://www.surveymonkey.com/r/uon_coding_journal){:target="_blank"}
+- [Journal Survey](https://www.surveymonkey.com/r/uon_coding_journal){:target="_blank"}
 - [Registration Survey](https://www.surveymonkey.com/r/uon_coding_registration){:target="_blank"}
 
 ## Related Research

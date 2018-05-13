@@ -28,12 +28,26 @@ Explored the use of some key *computational concepts* in Scratch:
 - *Sequencing* (following steps in order)
 - *Loops* (also referred to as *Repetition* or *Iteration*)
 - *Conditionals* (also referred to as *Branching*)
+- *Events* and *Data*
 
 ---
 
 ## Homework Tasks
 
-Please email this with an attachment.. 
+- Every week we will ask you to complete Homework
+- Contributes towards your NESA accreditation hours (each week is 1 hour, for a total of 10 hours)
+- After you have finished, please email me and let me know, so I can record this
+- The tasks and links to complete this homework will always be available on the session page, under the *Homework* heading 	
+
+---
+
+## Week 1 Tasks
+
+
+1. Complete the *Computational Concepts with Scratch* activity
+2. Share the completed *Computational Concepts* activity while logged into your Scratch account
+3. Work through the *Week 1 Homework Exercises* to check your understanding of concepts learned today
+4. Request a *Scratch Teacher Account* (if you haven't already)
 
 ---
 
@@ -43,7 +57,7 @@ Please email this with an attachment..
 - Learn about different approaches for teaching and assessing *Coding* and *Computational Thinking*, such as:
 	- Design projects
 	- Solving puzzles
-- Activities involving using *Scratch Teacher Accounts* (please register for one of these)
+- Activities involving using *Scratch Teacher Accounts*
 
 ---
 
