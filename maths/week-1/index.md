@@ -22,25 +22,17 @@ In this session’s activities, you will find out what *Coding* and *Computation
 - [An Introduction to the Program](https://drive.google.com/uc?export=view&id=1PGhU6THlRK9hcxhC4qVOCttQqduHKYM6){:target="_blank"} (PDF Presentation)
 - [An Introduction to Coding](https://drive.google.com/uc?export=view&id=1qFBEuYVQbkzvVGeSGsnclef6Cks38vC7){:target="_blank"} (PDF Presentation)
 - [An Introduction to Scratch](https://drive.google.com/uc?export=view&id=1DMvvETbOWFt7YwHWH9DWxNiycC5bfVmp){:target="_blank"} (PDF Presentation)
-- Computational Concepts with Scratch (PDF Presentation)
+- [Computational Concepts with Scratch](https://drive.google.com/uc?export=view&id=1EEBuEKaSMfJ7DVK3gj4Wd_UGin-gI5Ns){:target="_blank"} (PDF Presentation)
 - Session Wrap-up (PDF Presentation)
-
-<!-- 
-- [Computational Concepts with Scratch]() (PDF presentation)
-- [Session Wrap-up]() (PDF presentation)
--->
 
 ### Activities
 
 - [Getting Started with Scratch](https://drive.google.com/uc?export=view&id=1bvg9zIKCQvXNy2bYYiRz_jqQfXkMP8cE) (Word document)
-- Computational Concepts with Scratch (Word document)
-
-<!--
-- [Computational Concepts with Scratch]() (Word document)
--->
+- [Computational Concepts with Scratch](https://drive.google.com/uc?export=view&id=1uvCJlLyWgnh0WzOGUHBEaYDSAPvbi6BY) (Word document)
 
 ### Homework
 
+- [Week 1 Homework Exercises](exercises)
 - Week 1 Task (Word document)
 
 <!-- 
@@ -50,13 +42,9 @@ In this session’s activities, you will find out what *Coding* and *Computation
 ## Links
 
 - [Scratch Website](https://scratch.mit.edu/){:target="_blank"}
-- Workshop Survey
-
-<!-- 
-- [Workshop Survey]()
--->
-
+- [Workshop Survey](https://www.surveymonkey.com/r/uon_coding_session1){:target="_blank"}
 - [Weekly Journal Survey](https://www.surveymonkey.com/r/uon_coding_journal){:target="_blank"}
+- [Registration Survey](https://www.surveymonkey.com/r/uon_coding_registration){:target="_blank"}
 
 ## Related Research
 

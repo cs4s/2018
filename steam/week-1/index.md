@@ -22,31 +22,19 @@ In this session’s activities, you will find out what *Coding* and *Computation
 - [An Introduction to the Program](https://drive.google.com/uc?export=view&id=1Kkhxk-w4JI_7DfNhsE_2jU88THq_DkGL){:target="_blank"} (PDF Presentation)
 - [An Introduction to Coding](https://drive.google.com/uc?export=view&id=1kT3nlpWJheCzcM9ou5amz8i81rMvX706){:target="_blank"} (PDF Presentation)
 - [An Introduction to Scratch](https://drive.google.com/uc?export=view&id=1YCJlUv7PPytDEBFSu_J7euLy2Zo6Ln5r){:target="_blank"} (PDF Presentation)
-- Computational Concepts with Scratch (PDF Presentation)
-- Session Wrap-up (PDF Presentation)
-
-<!-- 
-- [Computational Concepts with Scratch]() (PDF presentation)
-- [Session Wrap-up]() (PDF presentation)
--->
-
-<!-- 
-- [Computational Concepts with Scratch]() (Powerpoint presentation)
-- [End of Session Presentation and Homework]() (Powerpoint presentation)
--->
+- [Computational Concepts with Scratch](https://drive.google.com/uc?export=view&id=1CE1LgyUqAZANKBWqGzrZAHe8_2-ky8df){:target="_blank"} (PDF Presentation)
+- Session Wrap-up and Homework (PDF Presentation)
 
 ### Activities
 
 - [Getting Started with Scratch](https://drive.google.com/uc?export=view&id=1bvg9zIKCQvXNy2bYYiRz_jqQfXkMP8cE) (Word document)
-- Computational Concepts with Scratch (Word document)
+- [Computational Concepts with Scratch](https://drive.google.com/uc?export=view&id=1uvCJlLyWgnh0WzOGUHBEaYDSAPvbi6BY) (Word document)
 
-<!--
-- [Computational Concepts with Scratch]() (Word document)
--->
 
 ### Homework
 
-- Week 1 Homework (Word document)
+- [Week 1 Homework Exercises](exercises)
+- [Week 1 Homework Details] (Word document)
 
 <!--
     - [Week 1 Homework]()
@@ -55,13 +43,9 @@ In this session’s activities, you will find out what *Coding* and *Computation
 ## Links
 
 - [Scratch Website](https://scratch.mit.edu/){:target="_blank"}
-- Workshop Survey
-
-<!-- 
-- [Workshop Survey]()
--->
-
+- [Workshop Survey](https://www.surveymonkey.com/r/uon_coding_session1){:target="_blank"}
 - [Weekly Journal Survey](https://www.surveymonkey.com/r/uon_coding_journal){:target="_blank"}
+- [Registration Survey](https://www.surveymonkey.com/r/uon_coding_registration){:target="_blank"}
 
 ## Related Research
 
