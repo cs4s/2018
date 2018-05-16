@@ -20,8 +20,8 @@ In this session’s activities, you will find out what *Coding* and *Computation
 ### Presentations
 
 - [An Introduction to the Program](https://drive.google.com/uc?export=view&id=1PGhU6THlRK9hcxhC4qVOCttQqduHKYM6){:target="_blank"} (PDF Presentation)
-- [An Introduction to Coding](https://drive.google.com/uc?export=view&id=1qFBEuYVQbkzvVGeSGsnclef6Cks38vC7){:target="_blank"} (PDF Presentation)
-- [An Introduction to Scratch](https://drive.google.com/uc?export=view&id=1DMvvETbOWFt7YwHWH9DWxNiycC5bfVmp){:target="_blank"} (PDF Presentation)
+- [An Introduction to Coding](https://drive.google.com/uc?export=view&id=1DMvvETbOWFt7YwHWH9DWxNiycC5bfVmp){:target="_blank"} (PDF Presentation)
+- [An Introduction to Scratch](https://drive.google.com/uc?export=view&id=1qFBEuYVQbkzvVGeSGsnclef6Cks38vC7){:target="_blank"} (PDF Presentation)
 - [Computational Concepts with Scratch](https://drive.google.com/uc?export=view&id=1EEBuEKaSMfJ7DVK3gj4Wd_UGin-gI5Ns){:target="_blank"} (PDF Presentation)
 - [Session Wrap-up](https://drive.google.com/uc?export=view&id=1p_O2nzclc1GPR5vmv27AaZli6HPpgKy4){:target="_blank"} (PDF Presentation)
 
