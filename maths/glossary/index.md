@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: glossary
 title: Coding in Stage 3 - ScratchMaths - Glossary
 ---
 # Glossary
