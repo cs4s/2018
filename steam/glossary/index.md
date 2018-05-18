@@ -67,7 +67,7 @@ A couple of the commands we could use to navigate the robot could be *move forwa
 
 According to [Brenann and Resnick](http://web.media.mit.edu/~kbrennan/files/Brennan_Resnick_AERA2012_CT.pdf){:target="_blank"}, **Computational Concepts** are *"the concepts designers 
 employ as they program"*.
-These concepts are essential to solving problems with computers, as they are combined when creating programs (in Scratch or any other Coding language).
+These concepts are essential to solving problems with computers, as they are combined when creating programs (in Scratch or any other [Coding](#coding) language).
 
 The **Computational Concepts** are:
 
@@ -95,9 +95,11 @@ The **Computational Perspectives** are:
 According to [Brenann and Resnick](http://web.media.mit.edu/~kbrennan/files/Brennan_Resnick_AERA2012_CT.pdf){:target="_blank"}, **Computational Practices** are *"the practices designers develop as they 
 program"*.
 
+The **Computational Practices** are:
+
 - *Being incremental and iterative*
 - [Testing](#testing) and [Debugging](#debugging)
-- Reusing and [Remixing](#remixing)
+- *Reusing* and [Remixing](#remixing)
 - [Abstracting](#abstraction) and [Modularizing](#modularisation)
 
 ### Computational Thinking
@@ -107,12 +109,12 @@ program"*.
 The meaning of **Computational Thinking** above is the definition given by [Jeanette Wing](https://www.cs.cmu.edu/link/research-notebook-computational-thinking-what-and-why){:target="_blank"}, which is one of the most common definitions of **Computational Thinking**. 
 Wing argued that the thinking processes that Computer Scientists use when solving problems with computer programs could be developed separately to [Coding](#coding) skills and that some of these concepts (such as [Abstraction](#abstraction)) can be applied to solve problems in people's daily lives.
 
-In the *Coding in Stage 3* program, we use the **Computational Thinking** framework, which was [developed by Karen Brennan and Mitchell Resnick](http://web.media.mit.edu/~kbrennan/files/Brennan_Resnick_AERA2012_CT.pdf){:target="_blank"}, to define **Computational Thinking**.
+In the *Coding in Stage 3* program, we use the **Computational Thinking** framework developed by [Karen Brennan and Mitchell Resnick](http://web.media.mit.edu/~kbrennan/files/Brennan_Resnick_AERA2012_CT.pdf){:target="_blank"} to define **Computational Thinking**.
 This definition has been developed by studying childrens as designers, who used Scratch to create projects such as: stories, animations and games.
 Brennan and Resnick's **Computational Thinking** framework consists of three key dimensions:
 
 - [Computational Concepts](#computational-concept): "the concepts designers employ as they program", such as [Loops](#loops) and [Conditionals](#conditionals) 
-- [Computational Practices](#computational-practice): "the practices designers develop as they program", such as being *incremental and iterative*, *testing* and *debugging*.
+- [Computational Practices](#computational-practice): "the practices designers develop as they program", such as being *incremental and iterative*, [Testing](#testing) and [Debugging](#debugging).
 - [Computational Perspectives](#computational-perspective): "the perspectives designers form about the world around them and about themselves", such as *expressing* themselves through creation of Scratch projects and *connecting* with other students through the Scratch community.
 
 ### Computer Science
@@ -169,7 +171,7 @@ when gf clicked
 As described by [Brennan and Resnick](http://web.media.mit.edu/~kbrennan/files/Brennan_Resnick_AERA2012_CT.pdf){:target="_blank"}, "Data involves storing, retrieving, and updating values."
 There are two main ways of dealing with **Data** in Scratch: [Variables](#variables) and *Lists*.
 
-One example of a common use of **Data** in Scratch, is the use of [Variables](#variables) for keeping track of a player's score in a game.
+One example of a common use of **Data** in Scratch is the use of [Variables](#variables) for keeping track of a player's score in a game.
 In the blocks below, when a [Sprite](#sprite) touches a Star [Sprite](#sprite) the player's score will increase by 1.
 
 ~~~
@@ -231,10 +233,10 @@ See the definition for [Repetition](#repetition) below.
 ### Loops
 
 **Loops** are a [Computational Concept](#computational-concept), which refers to the way computers can follow instructions over and over again (in a loop).
-**Loops* are also sometimes referred to as *iteration* and *repetition*.
+**Loops** are also sometimes referred to as *iteration* and *repetition*.
 
 Computers are very good at repeating actions, whether you want them to repeat something two times, one hundred times, or even to have them repeat something over and over forever.
-There are many examples of **repetition** in real life, as well as in *Code*. 
+There are many examples of **Loops** in real life, as well as in *Code*. 
 For example, when you swim 10 laps in a pool, you are repeating the lap 10 times. 
 You would also be repeating the actions that make up the stroke (for example: freestyle) over and over as you swam the lap.
 
@@ -251,7 +253,7 @@ when [space v] key pressed
 
 ### Modularisation
 
-**Modularisation** is one of the [Computational Practices][#computational-practice] identified by [Brenann and Resnick](http://web.media.mit.edu/~kbrennan/files/Brennan_Resnick_AERA2012_CT.pdf){:target="_blank"}. 
+**Modularisation** is one of the [Computational Practices](#computational-practice) identified by [Brenann and Resnick](http://web.media.mit.edu/~kbrennan/files/Brennan_Resnick_AERA2012_CT.pdf){:target="_blank"}. 
 In [Computer Science](#computer-science), **Modularisation** is the splitting of programs into smaller "modules" or smaller programs. 
 By using **Modularisation**, you can break complex problems into simpler parts to make them more manageable.
 
@@ -260,7 +262,7 @@ You can read about examples of *Decomposition* and how these can apply to proble
 
 ### Nested Conditionals
 
-*Nested Conditionals* (also known as *Nested Branching*) involves having one or more [Conditionals](#conditionals) block (for example: an *if then else* block in Scratch) inside another [Conditionals](#conditionals) block.
+**Nested Conditionals** (also known as *Nested Branching*) involves having one or more [Conditionals](#conditionals) block (for example: an *if then else* block in Scratch) inside another [Conditionals](#conditionals) block.
 
 An example of the use of **Nested Conditionals** in Scratch is shown in the example below. 
 If the [User Input](#user-input) to the question: "What's your age?" is *25*, the [Sprite](#sprite) will say: *"You're the right age to play this game!"*.
@@ -283,7 +285,7 @@ when gf clicked
 
 ### Nested Loops
 
-*Nested Loops* (also known as *Nested Repetition*) involves having one or more [Loop](#loops) blocks (for example: a *repeat* block in Scratch) inside another [Loop](#loops) block.
+**Nested Loops** (also known as *Nested Repetition*) involves having one or more [Loop](#loops) blocks (for example: a *repeat* block in Scratch) inside another [Loop](#loops) block.
 
 An example of the use of **Nested Loops** is shown in the example below.
 
@@ -315,7 +317,7 @@ Then, the steps above will repeat another 2 times.
 ### Number
 
 A **Number** value can represent a number, including integers (whole numbers) and decimal numbers.
-**Numbers** can work differently in different programming languages but, in Scratch, variables with a **Number** value can be either an integer (whole number) or a decimal value.
+**Numbers** can work differently in different programming languages but, in Scratch, [Variables](#variables) with a **Number** value can be either an integer (whole number) or a decimal value.
 
 ### Operators
 
@@ -382,6 +384,14 @@ When we refer to a **program**, we mean that the instructions for the computer t
 
 See the definition of [Coding](#coding) above.
 
+### Remixing
+
+**Remixing** is a [Computational Practice](#computational-practice), which refers to the practice in Scratch, and [Coding](#coding) more generally, of taking copies of [Programs](#program) and modifying them.
+A similar term to **Remixing** is *Modding* - where Coders take an existing [Program](#program) (such as a game) and make customisations to that [Program](#program).
+
+**Remixing** in Scratch is common because you can use the *remix* button once inside a project to copy all of a project's [Sprites](#sprite) and [Scripts](#scripts). 
+The Scratch Wiki has a [page on Remixing in Scratch](https://en.scratch-wiki.info/wiki/Remix){:target="_blank"}, which explains how you can *remix* a project and some of the potential issues with **Remixing** in the Scratch community (such as plagiarism of others' work).
+
 ### Repetition
 
 See the definition of [Loops](#loops) above.
@@ -393,10 +403,10 @@ See the definition of [Conditionals](#conditionals) above.
 ### Sequences
 
 **Sequences** are a [Computational Concept](#computational-concept), which refers to the way that computers follow instructions in order.
-When writing [algorithms](#algorithm), it is important to order instructions in the correct order, as computers will follow them exactly as we tell them.
+When writing [Algorithms](#algorithm), it is important to order instructions in the correct order, as computers will follow them exactly as we tell them.
 
 An example of why **Sequences** are important is given on the [BBC Bitesize Website](https://www.bbc.co.uk/education/guides/zsf8d2p/revision){:target="_blank"}.
-An [algorithm](#algorithm) for brushing your teeth could be:
+An [Algorithm](#algorithm) for brushing your teeth could be:
 
 1. put toothpaste on toothbrush
 2. use toothbrush to clean teeth
@@ -443,29 +453,29 @@ After finding this bug, you could then change the [Program](#program) to check f
 
 ### User Input
 
-**User input** is a term that means that the person using the *program* (*the user*) interacts with the *program*, usually by (but not always) using a keyboard/mouse.
+**User Input** is a term that means that the person using the [Program](#program) (*the user*) interacts with the [Program](#program), usually by (but not always) using a keyboard/mouse.
 For example, you might register for an event (for example: a workshop) using an online form. 
-The *user input* in this example would be the details you would enter into the form (such as your name and email address).
-Another example of *user input* is controlling a character in a videogame with a joystick. 
+The **User Input** in this example would be the details you would enter into the form (such as your name and email address).
+Another example of **User Input**  is controlling a character in a videogame with a joystick. 
 The videogame would have some *Code* that would take that input from the joystick (for example: moving the joystick to the right) and then performing some action (in this example: moving the character to the right).
 
 ### Variables
 
-**Variables** in *Coding* are names given to values that can change.
-For example, you could *Code* a game where you have to shoot aliens and you might have a *variable* in the game *Code* called *score*.
-Every time you shoot an alien this *score* variable could increase by 1.
+**Variables** in [*Coding*](#coding) are names given to values that can change.
+For example, you could *Code* a game where you have to shoot aliens and you might have a **Variable** in the game *Code* called *score*.
+Every time you shoot an alien this *score* **Variable** could increase by 1.
 
 **Variables** in Mathematics and Coding are similar, in that they both are a name/letter that can represent a number.
 However, in Coding a **Variable** can also represent a piece of text (a *String* value).
 There are also some other differences in how **Variables** can be used in Coding.
-For example, a statement like the equation below is perfectly fine in some *Coding* languages, but doesn't make sense in Mathematics:
+For example, a statement like the equation below is perfectly fine in some [*Coding*](#coding) languages, but doesn't make sense in Mathematics:
 
 *x = x + 1*
 
 In Maths this would mean that x is equal to x plus 1 (but this does not make sense).
-In *Coding*, this means that the value of x will change to x plus 1 (so if x was 2, it would be 3 after the statement above). 
+In [*Coding*](#coding), this means that the value of x will change to x plus 1 (so if x was 2, it would be 3 after the statement above). 
 
-Different Coding languages handle the changing of variables in different ways.
+Different [*Coding*](#coding) languages handle the changing of variables in different ways.
 In Scratch, for example, we would write the example statement above as:
 
 ~~~

@@ -245,6 +245,6 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
   margin-top: 1em;
 }
 
-.outcome-body {
+.outcome-body, .glossary-body ul, .glossary-body ol  {
   font-family: Georgia, 'Times New Roman', Times, serif;
 }
