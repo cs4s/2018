@@ -7,20 +7,21 @@ title: Coding in Stage 3 - ScratchMaths - Week 2
 
 ## About
 
-In this session, we will explain several different approaches for teaching and assessing *Coding* and *Computational Thinking*, with a focus on approaches for teaching these skills with *Scratch*.
+In this session, we will explain a few different approaches for teaching and assessing *Coding* and *Computational Thinking*, with a focus on approaches for teaching these skills with *Scratch*.
 
 In the session’s activities, you will learn how to use *Scratch Teacher Accounts*, which are a special type of *Scratch* accounts that can help you manage your students’ projects. You will also learn about remixing projects in *Scratch* and how remixing can be used with *Scratch Teacher Accounts* to run activities with your students.
 
 ## Metalanguage
 
-[algorithm](){: .metalanguage }, [computational thinking](){: .metalanguage }, [coding](){: .metalanguage }, [visual programming](){: .metalanguage }, [sequencing](){: .metalanguage }
+[algorithm](){: .metalanguage }, [computational thinking](){: .metalanguage }, [computational concept](){: .metalanguage}, [coding](){: .metalanguage }, [visual programming](){: .metalanguage }, [sequences](){: .metalanguage }, [loops](){: .metalanguage }, [conditionals](){: .metalanguage }, [debugging](){: .metalanguage }
 
 ## Materials
 
 ### Presentations
 
-- [Teaching and Assessing Coding and Computational Thinking]() (PDF presentation) - Missing
+- [Teaching Coding](https://drive.google.com/uc?export=view&id=1h5V3-6_Q8LvQ7Ufl7YYB7hQN3hRPOmR2){:target="_blank"} (PDF Presentation)
 - [Scratch Teacher Accounts]() (PDF presentation) - Missing
+- [Assessing Coding]() (PDF presentation) - Missing
 - [End of Session Presentation]() (PDF presentation) - Missing
 
 ### Activities
@@ -30,19 +31,27 @@ In the session’s activities, you will learn how to use *Scratch Teacher Accoun
 
 ### Links
 
-#### Scratch and Journal
+#### Scratch and Journal Links
 
 - [Scratch Website](https://scratch.mit.edu/){:target="_blank"}
 - [Weekly Journal Survey](https://www.surveymonkey.com/r/uon_coding_journal){:target="_blank"}
 
-#### Assessing Coding and Computational Thinking
+#### Teaching Coding Links
+
+- [Code.org CS Fundamentals: Unplugged Resources](https://code.org/curriculum/unplugged){:target="_blank"}
+- [Lightbot Game](http://lightbot.com/flash.html){:target="_blank"}
+- [Code.org Hour of Code Activities](https://code.org/learn){:target="_blank"}
+- [Code Club Scratch Projects](https://codeclubprojects.org/en-GB/scratch/){:target="_blank"}
+- [ACARA Digital Technologies: Year 5 & 6 Work Samples](https://www.australiancurriculum.edu.au/Search/?q=technologies&p=42605&t=ResourcePortfolio&y=42663&s=42692){:target="_blank"}
+
+#### Assessing Coding Links
 
 - [Bebras 365](https://www.bebras.edu.au/bebras365/){:target="_blank"}
 - [Dr Scratch](http://www.drscratch.org/){:target="_blank"}
 - [Project Quantum](https://diagnosticquestions.com/Quantum){:target="_blank"}
 - [Creative Computing Unit 1: Debug It! Studio](https://scratch.mit.edu/studios/475483/projects/){:target="_blank"}
 
-#### Scratch Teacher Accounts
+#### Teacher Account Links
 
 - [Scratch Teacher Account FAQ](https://scratch.mit.edu/educators/faq){:target="_blank"}
 - [MIT Scratch Team - Scratch Teacher Accounts (Youtube video)](https://www.youtube.com/watch?v=7Hl9GxA1zwQ){:target="_blank"}
