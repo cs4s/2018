@@ -1,12 +1,12 @@
 # Scratch Teacher Accounts
 
-## Coding in Stage 3: {Stream_Title}
+## Coding in Stage 3: ScratchMaths
 
-### Mr Daniel Hickmott & {Stream_Presenter}
+### Mr Daniel Hickmott & Dr Elena Prieto-Rodriguez
 
 #### Week 2: Teaching Coding with Scratch
 
-##### {Stream_Date} May 2018
+##### 21st May 2018
 
 ---
 
@@ -26,8 +26,8 @@
 
 - We highly recommend getting a *Teacher Account* for managing your classes
 - These are a special type of accounts that you have to request through the Scratch website that can help save your time
-- The {Stream_Materials} materials were written before *Teacher Accounts* were made available
-- We will demonstrate how the {Stream_Materials} activities can be used with *Teacher Accounts*
+- The *ScratchMaths* materials were written before *Teacher Accounts* were made available
+- We will demonstrate how the *ScratchMaths* activities can be used with *Teacher Accounts*
 
 ---
 

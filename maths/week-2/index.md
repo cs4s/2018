@@ -20,15 +20,15 @@ In the session’s activities, you will learn how to use *Scratch Teacher Accoun
 ### Presentations
 
 - [Teaching Coding](https://drive.google.com/uc?export=view&id=1h5V3-6_Q8LvQ7Ufl7YYB7hQN3hRPOmR2){:target="_blank"} (PDF Presentation)
-- [Scratch Teacher Accounts]() (PDF presentation) - Missing
+- [Scratch Teacher Accounts](https://drive.google.com/uc?export=view&id=1W2WzvtcD9JVG-CNkzUVWTsQ-It5qBiHP){:target="_blank"} (PDF Presentation)
 - [Assessing Coding](https://drive.google.com/uc?export=view&id=1syqPSszTORgPrZ67tePuEYh7-60-08kn){:target="_blank"} (PDF Presentation)
-- [End of Session Presentation](https://drive.google.com/uc?export=view&id=1h174CyqoqN0yXDFLhGt5FSn-qK0em5zO){:target="_blank"} (PDF presentation)
+- [End of Session Presentation](https://drive.google.com/uc?export=view&id=1h174CyqoqN0yXDFLhGt5FSn-qK0em5zO){:target="_blank"} (PDF Presentation)
 
 ### Activities
 
-- [Managing Classes with Scratch Teacher Accounts]() (Word document) - Missing
+- [Managing Classes with Scratch Teacher Accounts](https://drive.google.com/uc?export=view&id=1HTbem5X-L5OPXWMT7TOpzwBvr7QCO95M) (Word document)
 - [Remixing Projects with Scratch Teacher Accounts]() (Word document) - Missing
-- [Extension: Using CSV Upload to Create Classes]() (Word document) - Missing
+- [Extension: Using CSV Upload to Create Classes](https://drive.google.com/uc?export=view&id=18pBCMESTkbBzoeWXgBcaXwP4lsUGIOh1) (Word document)
 
 ### Homework
 
