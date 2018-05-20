@@ -27,7 +27,7 @@ In the session’s activities, you will learn how to use *Scratch Teacher Accoun
 ### Activities
 
 - [Managing Classes with Scratch Teacher Accounts]({{ site.drive_url | append: '1HTbem5X-L5OPXWMT7TOpzwBvr7QCO95M' }}) (Word document)
-- [Remixing Projects with Scratch Teacher Accounts]() (Word document) - Missing
+- [Remixing Projects with Scratch Teacher Accounts]({{ site.drive_url | append: '14GcwKB_XkiDGzsz84DF1P_vMMhc2FRN3' }}) (Word document)
 - [Extension: Using CSV Upload to Create Classes]({{ site.drive_url | append: '18pBCMESTkbBzoeWXgBcaXwP4lsUGIOh1' }}) (Word document)
 
 ### Homework
