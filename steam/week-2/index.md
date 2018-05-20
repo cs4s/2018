@@ -32,7 +32,7 @@ In the session’s activities, you will learn how to use *Scratch Teacher Accoun
 
 ### Homework
 
-- [Week 2 Homework Tasks]() (Word document) - Missing
+- [Week 2 Homework Tasks]({{ site.drive_url | append: '1vasPfZ5OIhdvm7ogndF4WolTDChXPWxH' }}) (Word document)
 
 ### Links
 
