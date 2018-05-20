@@ -50,10 +50,13 @@
 
 ## Week 2 Tasks
 
-1. Complete the *Computational Concepts with Scratch* activity from Week 1 and share this while logged into the account I sent you through email
-2. Create a *Class* that you could use for your students and add a couple of *Student Accounts* to this class
-3. Find a project using Scratch's *Explore* feature, remix this and add it to a new *Class Studio*
-4. In your email, send me a link to the *Class Studio* you created
+1. Complete the *Computational Concepts with Scratch* activity from Week 1 (if you haven't already)
+2. Share that activity
+3. Complete the *Managing Classes with Scratch Teacher Accounts* activity
+4. Complete the *Remixing Projects with Scratch Teacher Accounts* activity
+
+**Please include your Teacher Account username in the email you send me about Week 2 Homework**
+
 
 ---
 

@@ -239,7 +239,7 @@ You can also see alerts for some activity (account deletion and reporting)
 2. Find the *Class Studio* for the "Debug It!"
 3. Remix the "Debug It!" *Project*
 4. Share the remixed copy
-5. Add that *Project* to the *Class Studio*
+5. Add that remixed *Project* to the *Class Studio*
 
 ---
 
