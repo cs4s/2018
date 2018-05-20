@@ -1,0 +1,5 @@
+- Next week we will start working through the *ScratchMaths* modules
+- The first module from *ScratchMaths* is titled: *Tiling Patterns*
+- This module combines a variety of concepts:
+	- Maths: *Measuring Angles* and the *Cartesian Plane*
+	- Coding: *Sequences* and *Loops*

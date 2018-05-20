@@ -1,0 +1,4 @@
+- Next week we will start working through the *Creative Computing* units
+- The first unit we will start from in *Creative Computing* is titled: *Animations*
+- This module combines a variety of *Computational Concepts*: *Sequences*, *Events*, *Parallelism* and *Loops*
+- Includes some links to outcomes from *Creative Arts*

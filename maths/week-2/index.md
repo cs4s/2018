@@ -22,12 +22,17 @@ In the session’s activities, you will learn how to use *Scratch Teacher Accoun
 - [Teaching Coding](https://drive.google.com/uc?export=view&id=1h5V3-6_Q8LvQ7Ufl7YYB7hQN3hRPOmR2){:target="_blank"} (PDF Presentation)
 - [Scratch Teacher Accounts]() (PDF presentation) - Missing
 - [Assessing Coding](https://drive.google.com/uc?export=view&id=1syqPSszTORgPrZ67tePuEYh7-60-08kn){:target="_blank"} (PDF Presentation)
-- [End of Session Presentation]() (PDF presentation) - Missing
+- [End of Session Presentation](https://drive.google.com/uc?export=view&id=1h174CyqoqN0yXDFLhGt5FSn-qK0em5zO){:target="_blank"} (PDF presentation)
 
 ### Activities
 
 - [Managing Classes with Scratch Teacher Accounts]() (Word document) - Missing
 - [Remixing Projects with Scratch Teacher Accounts]() (Word document) - Missing
+- [Extension: Using CSV Upload to Create Classes]() (Word document) - Missing
+
+### Homework
+
+- [Week 1 Homework Tasks]() (Word document) - Missing
 
 ### Links
 
