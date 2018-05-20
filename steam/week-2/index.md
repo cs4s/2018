@@ -1,6 +1,6 @@
 ---
 layout: session
-title: Coding in Stage 3 - ScratchMaths - Week 2
+title: Coding in Stage 3 - Coding & STEAM - Week 2
 ---
 
 # Week 2: Teaching Coding with Scratch
@@ -19,10 +19,10 @@ In the session’s activities, you will learn how to use *Scratch Teacher Accoun
 
 ### Presentations
 
-- [Teaching Coding]({{ site.drive_url | append: '1h5V3-6_Q8LvQ7Ufl7YYB7hQN3hRPOmR2' }}){:target="_blank"} (PDF Presentation)
-- [Scratch Teacher Accounts]({{ site.drive_url | append: '1W2WzvtcD9JVG-CNkzUVWTsQ-It5qBiHP' }}){:target="_blank"} (PDF Presentation)
-- [Assessing Coding]({{ site.drive_url | append: '1syqPSszTORgPrZ67tePuEYh7-60-08kn' }}){:target="_blank"} (PDF Presentation)
-- [End of Session Presentation]({{ site.drive_url | append: '1h174CyqoqN0yXDFLhGt5FSn-qK0em5zO' }}){:target="_blank"} (PDF Presentation)
+- [Teaching Coding]({{ site.drive_url | append: '1T7U4f_u_xutlV3zSe3F5AUtMRGk-_mW2' }}){:target="_blank"} (PDF Presentation)
+- [Scratch Teacher Accounts]({{ site.drive_url | append: '1mVHa_B_bjOsRcO6XAjQfpabWV-Qs6_0d' }}){:target="_blank"} (PDF Presentation)
+- [Assessing Coding]({{ site.drive_url | append: '1dIwRKmzq1gRtAzvJMvgCyuxyH-fihJem' }}){:target="_blank"} (PDF Presentation)
+- [End of Session Presentation]({{ site.drive_url | append: '1mwCWTxd1k2NudCwVoMUVur1BN-GgKtmr' }}){:target="_blank"} (PDF Presentation)
 
 ### Activities
 
