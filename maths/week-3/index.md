@@ -49,7 +49,6 @@ The **computational concepts** covered in this module include *Sequences* and *L
 
 ## Session Outcomes
 
-
 ##### Stage 3 NSW Syllabus Outcomes
 {: .collapse-outcomes-header}
 
@@ -86,7 +85,7 @@ The **computational concepts** covered in this module include *Sequences* and *L
 
 | Outcome                                                                                          | How the Outcome is addressed                                                                                                                                                                                                                                                                                 |
 |:-------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| MA3-16MG: measures and constructs angles, and applies angle relationships to find unknown angles | In this session's activities, you will apply angle relationships to find unknown angles. For example, in the *Unplugged: Calculating Angles* activity, you will calculate the total number of degrees that a Tile has moved, by multiplying the number of turns the Tiles made by the degree of each of turn. |
+| **MA3-16MG**: measures and constructs angles, and applies angle relationships to find unknown angles | In this session's activities, you will apply angle relationships to find unknown angles. For example, in the *Unplugged: Calculating Angles* activity, you will calculate the total number of degrees that a Tile has moved, by multiplying the number of turns the Tiles made by the degree of each of turn. |
 {: .table .table-striped .table-bordered}
 
 
