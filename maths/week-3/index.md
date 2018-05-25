@@ -23,14 +23,14 @@ The **computational concepts** covered in this module include *Sequences* and *L
 
 ### Presentations
 
-- [Introduction to ScratchMaths Module 1 (Tiling Patterns)]() (PDF Presentation - Missing)
+- [Introduction to Tiling Patterns]({{ site.drive_url | append: '1-0gdxrF5kxuyRiUDzC4zC-PgQIOT3N6C' }}){:target="_blank"} (PDF Presentation)
 - [Tiling Patterns Investigation 1]({{ site.drive_url | append: '1LFw31AdKk3pxrfZEYPKLQtVzEggSsTAF' }}){:target="_blank"} (PDF Presentation)
 - [Tiling Patterns Investigation 2]({{ site.drive_url | append: '18tTAJ68D-EIynZ0P5FjBkPisipiBNAIx' }}){:target="_blank"} (PDF Presentation)
-- [End of Session Presentation]() (PDF Presentation - Missing)
+- [End of Session Presentation]({{ site.drive_url | append: '1vxwJU4vxPZ3_wmN7HJ2s-Dz63bVMxpE4' }}){:target="_blank"} (PDF Presentation)
 
 ### Activities
 
-- [Tiling Patterns Teacher Materials]({{ site.drive_url | append: '1Erf3U2n6Oc4G0vEI-eBQ4lbTroB8arD_' }}){:target="_blank"} (PDF Document)
+- [Tiling Patterns Part 1: Teacher Materials]({{ site.drive_url | append: '1Erf3U2n6Oc4G0vEI-eBQ4lbTroB8arD_' }}){:target="_blank"} (PDF Document)
 - [Tiling Patterns Resources Download Page](http://www.ucl.ac.uk/ioe/research/projects/scratchmaths/curriculum-materials/module-1-tiling-patterns){:target="_blank"}
 
 ### Homework
