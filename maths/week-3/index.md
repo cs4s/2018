@@ -35,7 +35,7 @@ The **computational concepts** covered in this module include *Sequences* and *L
 
 ### Homework
 
-- [Week 3 Homework Tasks]() (Word document - Missing)
+- [Week 3 Homework Tasks]({{ site.drive_url | append: '1woqKOppA9Idr6N9ApoyMR57QC_tZUURx' }}) (Word document)
 
 ### Links
 
