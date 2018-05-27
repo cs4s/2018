@@ -28,7 +28,7 @@ In the Part 1 session, we will focus on three activities from Unit 2 of the Crea
 
 ### Presentations
 
-- [Creative Computing Curriculum]({{ site.drive_url | append: 'd/1zTFMoaPVUzT0gPAqALYAxCdPT0_9pUbZ' }}){:target="_blank"} (PDF Presentation)
+- [Creative Computing Curriculum]({{ site.drive_url | append: '1zTFMoaPVUzT0gPAqALYAxCdPT0_9pUbZ' }}){:target="_blank"} (PDF Presentation)
 - [Coding and the Creative Arts]({{ site.drive_url | append: '' }}){:target="_blank"} (PDF Presentation - Missing)
 - [Creative Computing Unit 2]({{ site.drive_url | append: '' }}){:target="_blank"} (PDF Presentation - Missing)
 - [End of Session Presentation]({{ site.drive_url | append: '' }}){:target="_blank"} (PDF Presentation - Missing)
