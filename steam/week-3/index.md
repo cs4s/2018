@@ -28,8 +28,9 @@ In the Part 1 session, we will focus on three activities from Unit 2 of the Crea
 
 ### Presentations
 
+- [Creative Computing Curriculum]({{ site.drive_url | append: 'd/1zTFMoaPVUzT0gPAqALYAxCdPT0_9pUbZ' }}){:target="_blank"} (PDF Presentation)
 - [Coding and the Creative Arts]({{ site.drive_url | append: '' }}){:target="_blank"} (PDF Presentation - Missing)
-- [Creative Computing Unit 2 Introduction]({{ site.drive_url | append: '' }}){:target="_blank"} (PDF Presentation - Missing)
+- [Creative Computing Unit 2]({{ site.drive_url | append: '' }}){:target="_blank"} (PDF Presentation - Missing)
 - [End of Session Presentation]({{ site.drive_url | append: '' }}){:target="_blank"} (PDF Presentation - Missing)
 
 ### Activities
@@ -46,10 +47,12 @@ In the Part 1 session, we will focus on three activities from Unit 2 of the Crea
 - [Scratch Website](https://scratch.mit.edu/){:target="_blank"}
 - [ScratchEd's Creative Computing Curriculum Guide](http://scratched.gse.harvard.edu/guide/){:target="_blank"}
 - [Weekly Journal Survey](https://www.surveymonkey.com/r/uon_coding_journal){:target="_blank"}
+- [Pixar Post: Danielle Feinberg's Made with Code Video](https://www.pixarpost.com/2014/06/danielle-feinbergs-made-with-code.html){:target="_blank"}
 
 ## Related Research
 
-- ??
+- [Brennan's Dissertation: "Best of both worlds: Issues of structure and agency in computational creation, in and out of school"](https://scholar.harvard.edu/kbrennan/publications/best-both-worlds-issues-structure-and-agency-computational-creation-and-out){:target="_blank"}
+- [A blog post that summarises Brennan's Dissertation](http://www.ethanhein.com/wp/2013/constructivist-learning-and-scratch/){:target="_blank"}
 
 ## Session Outcomes
 
