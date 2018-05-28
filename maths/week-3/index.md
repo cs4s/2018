@@ -31,6 +31,8 @@ The **computational concepts** covered in this module include *Sequences* and *L
 ### Activities
 
 - [Tiling Patterns Part 1: Teacher Materials]({{ site.drive_url | append: '1Erf3U2n6Oc4G0vEI-eBQ4lbTroB8arD_' }}){:target="_blank"} (PDF Document)
+- [1.1.4 Unplugged - Simple Scripts Activity Handout]({{ site.drive_url | append: '12_dbE3NaGYto6kllUm1jK9dAdPj7ksG8' }}){:target="_blank"} (PDF Document)
+- [1.2.2 Unplugged - Calculating Angles Activity Handout]({{ site.drive_url | append: '17LPtKBlBNTai_zIcIASK2YBZIu9jRD3G' }}){:target="_blank"} (PDF Document)
 - [Tiling Patterns Resources Download Page](http://www.ucl.ac.uk/ioe/research/projects/scratchmaths/curriculum-materials/module-1-tiling-patterns){:target="_blank"}
 
 ### Homework
