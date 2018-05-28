@@ -395,6 +395,21 @@ The Scratch Wiki has a [page on Remixing in Scratch](https://en.scratch-wiki.inf
 
 See the definition of [Loops](#loops) above.
 
+### Reset
+
+In [Coding](#coding), you may often want to **Reset** a program by making the [Sprites](#sprite) return to their original position and [Variables](#variables) return to their original value. 
+For example, in Scratch you could make an animation where a [Sprite](#sprite) starts in the centre of the [Stage](#stage) and moves to the right. 
+After the animation finishes, the [Sprite](#sprite) will no longer start at the centre unless you tell it to move back to the centre.
+You could do this by using a **Reset** or a *setup script*, which could be followed when the *green flag* button is clicked.
+
+An example of a **Reset** script is shown below, which will move a [Sprite](#sprite) back to its original position in the centre of the [Stage](#stage) after the *green flag* button is clicked.
+
+~~~
+when gf clicked
+	go to x: (0) y: (0)
+~~~
+{: .language-scratch}
+
 ### Selection
 
 See the definition of [Conditionals](#conditionals) above.

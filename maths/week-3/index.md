@@ -17,7 +17,7 @@ The **computational concepts** covered in this module include *Sequences* and *L
 
 ## Metalanguage
 
-[algorithm](){: .metalanguage }, [computational thinking](){: .metalanguage }, [computational concept](){: .metalanguage}, [coding](){: .metalanguage }, [visual programming](){: .metalanguage }, [sequences](){: .metalanguage }, [loops](){: .metalanguage }, [debugging](){: .metalanguage }
+[algorithm](){: .metalanguage }, [computational thinking](){: .metalanguage }, [computational concept](){: .metalanguage}, [coding](){: .metalanguage }, [visual programming](){: .metalanguage }, [sequences](){: .metalanguage }, [loops](){: .metalanguage }, [debugging](){: .metalanguage }, [reset](){: .metalanguage}
 
 ## Materials
 
