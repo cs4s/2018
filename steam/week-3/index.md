@@ -31,7 +31,7 @@ In the Part 1 session, we will focus on three activities from Unit 2 of the Crea
 ### Activities
 
 - [Creative Computing Unit 2: Animations Part 1]({{ site.drive_url | append: '1A6HDHyya-ZNIBHKxTb4_TJX89UKDRX0g' }}){:target="_blank"} (PDF Document)
-- [Extension: Coding to Make Music with Sonic Pi]({{ site.drive_url | append: '' }}) (Word document - Missing)
+- [Extension: Coding to Make Music with Sonic Pi]({{ site.drive_url | append: '15a-dvVdQjcQ3ugCJgjlDrg07Xj4-CkSU' }}) (Word document
 
 ### Homework
 
