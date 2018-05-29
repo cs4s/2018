@@ -31,6 +31,17 @@ An **Algorithm** is a precise and step-by-step procedure that is written for a c
 
 For a more in-depth explanation of **Algorithms**, we recommend this page on the [BBC Bitesize website](https://www.bbc.com/education/guides/z22wwmn/revision){:target="_blank"}, which contains several examples of how **Algorithms** are used in a variety of areas (such as weather forecasting).
 
+### Bitmap
+
+A **Bitmap** image is one of the two types of images (the other type of images are [Vector](#vector) images). 
+**Bitmap** images are made up of pixels in a grid and are often used for digital photos.
+
+You may notice that when you zoom in on a **Bitmap** image, the image appears to be a poorer quality.
+This is because when you zoom in on a **Bitmap** image or try to make it bigger, the pixels in the grid stretch and make the overall picture look blurred or low quality.
+The Paint Editor in Scratch has the ability to create **Bitmap** and [Vector](#vector) images, which is explained on the [Scratch Wiki](https://en.scratch-wiki.info/wiki/Paint_Editor){:target="_blank"}.
+You can learn more about **Bitmap** and [Vector](#vector) images and the differences between them from [this page about Encoding Images on the BBC Bitesize Website](https://www.bbc.com/education/guides/zqyrq6f/revision/1){:target="_blank"}.
+
+
 ### Boolean
 
 A **Boolean** value can be either: *True* or *False*.
@@ -396,6 +407,21 @@ The Scratch Wiki has a [page on Remixing in Scratch](https://en.scratch-wiki.inf
 
 See the definition of [Loops](#loops) above.
 
+### Reset
+
+In [Coding](#coding), you may often want to **Reset** a program by making the [Sprites](#sprite) return to their original position and [Variables](#variables) return to their original value. 
+For example, in Scratch you could make an animation where a [Sprite](#sprite) starts in the centre of the [Stage](#stage) and moves to the right. 
+After the animation finishes, the [Sprite](#sprite) will no longer start at the centre unless you tell it to move back to the centre.
+You could do this by using a **Reset** or a *setup script*, which could be followed when the *green flag* button is clicked.
+
+An example of a **Reset** script is shown below, which will move a [Sprite](#sprite) back to its original position in the centre of the [Stage](#stage) after the *green flag* button is clicked.
+
+~~~
+when gf clicked
+	go to x: (0) y: (0)
+~~~
+{: .language-scratch}
+
 ### Selection
 
 See the definition of [Conditionals](#conditionals) above.
@@ -482,6 +508,17 @@ In Scratch, for example, we would write the example statement above as:
 change [x v] by (1)
 ~~~
 {: .language-scratch}
+
+### Vector
+
+A **Vector** image is one of the two types of images (the other type of images are [Bitmap](#bitmap) images). 
+**Vector** images are made up of shapes and coordinates and are often used for images that need to be scaled to a variety of different sizes (such as logos and graphs).
+
+You may notice that when you resize a **Vector** image it does not become blurry or pixelated, like a [Bitmap](#bitmap) image would.
+This is because of the way the **Vector** images are stored as objects and co-ordinates, rather than as pixels in a grid.
+
+The Paint Editor in Scratch has the ability to create **Vector** and [Bitmap](#bitmap) images, which is explained on the [Scratch Wiki](https://en.scratch-wiki.info/wiki/Paint_Editor){:target="_blank"}.
+You can learn more about **Vector** and [Bitmap](#bitmap) images and the differences between them from [this page about Encoding Images on the BBC Bitesize Website](https://www.bbc.com/education/guides/zqyrq6f/revision/1){:target="_blank"}.
 
 ### Visual Programming
 

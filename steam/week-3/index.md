@@ -17,12 +17,7 @@ In the Part 1 session, we will focus on three activities from Unit 2 of the Crea
 
 ## Metalanguage
 
-[algorithm](){: .metalanguage }, [computational thinking](){: .metalanguage }, [computational concept](){: .metalanguage}, [coding](){: .metalanguage }, [visual programming](){: .metalanguage }, [sequences](){: .metalanguage }, [events](){: .metalanguage }, [parallelism](){: .metalanguage }, [loops](){: .metalanguage }
-
-<!-- TODO: 
-    definitions for bitmap, reset, vector, broadcast
-    Algorithm, computational thinking, computational concept, coding, visual programming, sequencing, events, parallelism, loops, reset, bitmap, vector, broadcast 
--->
+[algorithm](){: .metalanguage }, [computational thinking](){: .metalanguage }, [computational concept](){: .metalanguage}, [coding](){: .metalanguage }, [visual programming](){: .metalanguage }, [sequences](){: .metalanguage }, [events](){: .metalanguage }, [parallelism](){: .metalanguage }, [loops](){: .metalanguage }, [reset](){: .metalanguage }, [bitmap](){: .metalanguage }, [vector](){: .metalanguage }
 
 ## Materials
 
