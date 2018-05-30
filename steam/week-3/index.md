@@ -10,7 +10,7 @@ title: Coding in Stage 3 - Coding & STEAM - Week 3
 In the Coding and the Creative Arts sessions, you will learn about how the teaching of Coding can be linked to the outcomes in **Creative Arts**, including *Visual Arts*, *Music* and *Drama*.
 
 This session's activities have been adapted from *Unit 2 (Animations)* of the *Creative Computing Curriculum guide*. 
-The “big idea” behind Unit 2 is the encouragement of “creative diversity” when teaching students Coding with Scratch.
+The “big idea” behind Unit 2 is the encouragement of "creative diversity" when teaching students Coding with Scratch.
 The activities that you will participate in today involve the creating of scripts for characters in Scratch to act out, composing and playing digital music, creating images and combining these creations together.
 
 In the Part 1 session, we will focus on three activities from Unit 2 of the Creative Computing Curriculum guide: *Performing Scripts*, *Build-a-Band* and *Orange Square, Purple Circle*.
@@ -30,7 +30,9 @@ In the Part 1 session, we will focus on three activities from Unit 2 of the Crea
 ### Activities
 
 - [Creative Computing Unit 2: Animations Part 1]({{ site.drive_url | append: '1A6HDHyya-ZNIBHKxTb4_TJX89UKDRX0g' }}){:target="_blank"} (PDF Document)
-- [Extension: Coding to Make Music with Sonic Pi]({{ site.drive_url | append: '15a-dvVdQjcQ3ugCJgjlDrg07Xj4-CkSU' }}) (Word document
+- [Performing Scripts Activity Handout]({{ site.drive_url | append: '1X4GCTSV_0IUeVbAuObBXhA-Dbfqgt8jl' }}) (Word document)
+- [Performing Scripts - Playground Scene Video]({{ site.drive_url | append: '1894M9TQVC2p0-CYrTybrf0rjpUZUzc9p' }}){:target="_blank"} (FLV Video)
+- [Extension: Coding to Make Music with Sonic Pi]({{ site.drive_url | append: '15a-dvVdQjcQ3ugCJgjlDrg07Xj4-CkSU' }}) (Word document)
 
 ### Homework
 
