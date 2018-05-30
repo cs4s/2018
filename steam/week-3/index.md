@@ -9,7 +9,7 @@ title: Coding in Stage 3 - Coding & STEAM - Week 3
 
 In the Coding and the Creative Arts sessions, you will learn about how the teaching of Coding can be linked to the outcomes in **Creative Arts**, including *Visual Arts*, *Music* and *Drama*.
 
-This session’s activities have been adapted from *Unit 2 (Animations)* of the *Creative Computing Curriculum guide*. 
+This session's activities have been adapted from *Unit 2 (Animations)* of the *Creative Computing Curriculum guide*. 
 The “big idea” behind Unit 2 is the encouragement of “creative diversity” when teaching students Coding with Scratch.
 The activities that you will participate in today involve the creating of scripts for characters in Scratch to act out, composing and playing digital music, creating images and combining these creations together.
 
@@ -34,7 +34,7 @@ In the Part 1 session, we will focus on three activities from Unit 2 of the Crea
 
 ### Homework
 
-- [Week 3 Homework Tasks]({{ site.drive_url | append: '' }}) (Word document - Missing)
+- [Week 3 Homework Tasks]({{ site.drive_url | append: '1KHPkW7tNRMJPKYbrrLSV_66DrgT5TjvF' }}) (Word document)
 
 ### Links
 
@@ -42,6 +42,7 @@ In the Part 1 session, we will focus on three activities from Unit 2 of the Crea
 - [ScratchEd's Creative Computing Curriculum Guide](http://scratched.gse.harvard.edu/guide/){:target="_blank"}
 - [Weekly Journal Survey](https://www.surveymonkey.com/r/uon_coding_journal){:target="_blank"}
 - [Pixar Post: Danielle Feinberg's Made with Code Video](https://www.pixarpost.com/2014/06/danielle-feinbergs-made-with-code.html){:target="_blank"}
+- [Why kids love Scratch: It lets them fail in a way their parents don’t](https://qz.com/209561/why-kids-love-scratch-it-lets-them-fail-in-a-way-their-parents-dont/){:target="_blank"}
 
 ## Related Research
 
