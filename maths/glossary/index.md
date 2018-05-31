@@ -518,6 +518,73 @@ When a **block** is clicked, the [Sprite](#sprite) will follow that instruction.
 
 Are alternative ways that a [Sprite](#sprite) can look on the stage.
 
+### Custom Block
+
+A **Custom Block** in Scratch is a special type of [Block](#block) in Scratch, which are located in the *More Blocks* section of the Blocks Pane.
+You can create your own *Custom Blocks*, which are useful for putting stacks of blocks that are frequently used into a single [Block](#block).
+
+To create a **Custom Block**, you use the *Make a block* button.
+The *Make a block* button creates a *define* [Block](#block), which you place other blocks underneath to be followed when the **Custom Block** is clicked or followed by the Sprite.
+
+An example of where the use of **Custom Blocks** can be useful is explained in the next part of this section.
+
+The blocks below will cause a [Sprite](#sprite) to move upwards and then downwards (do a jump).
+
+~~~
+
+repeat (20)
+	change y by (1)
+	wait (0.2) secs
+end
+repeat (20)
+	change y by (-1)
+	wait (0.2) secs
+end
+
+~~~
+{: .language-scratch}
+
+You may create a game or animation where a [Sprite](#sprite) jumps and use the same Code in a few different spots in its Scripts.
+Instead of duplicating the blocks above a few times, you could make the Code that makes the [Sprite](#sprite) perform the jump into a **Custom Block**.
+A **Custom Block** that would do this in Scratch is shown below.
+Note that the name of the **Custom Block** is *jump* and that the blocks we want the Sprite to follow are snapped underneath the purple hat block (the *define* block).
+
+~~~
+
+define jump
+repeat (20)
+	change y by (1)
+	wait (0.2) secs
+end
+repeat (20)
+	change y by (-1)
+	wait (0.2) secs
+end
+
+~~~
+{: .language-scratch}
+
+By defining the *jump* **Custom Block**, we can now use these in a few different places.
+For example, say that we wanted to make the [Sprite](#sprite) jump whenever the *up arrow*, *space bar* or the *w* are pressed.
+This could be achieved by using the following Code in Scratch:
+
+~~~
+
+when [up arrow v] key pressed
+	jump :: custom
+	
+when [space v] key pressed
+	jump :: custom
+
+when [w v] key pressed
+	jump :: custom
+
+~~~
+{: .language-scratch}
+
+The effective use of **Custom Blocks** can make Scratch projects easier to read and have less repetition of Code.
+**Custom Blocks** are based off a concept in [Coding](#coding) called *Procedures* and/or *Functions*, which are important concepts in many Coding languages.
+
 ### Hat Block
 
 **Hat blocks** are always placed at the top of a stack of blocks.

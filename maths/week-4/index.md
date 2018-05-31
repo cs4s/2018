@@ -7,7 +7,7 @@ title: Coding in Stage 3 - ScratchMaths - Week 4
 
 ## About
 
-In this session, we will work through Investigation 3 (Creating Circular Rose Patterns) and Investigation 4 (Defining Your Own Pattern Blocks) from Module 1: Tiling Patterns, from the ScratchMaths curriculum materials.
+In this session, we will work through Investigation 3 (*Creating Circular Rose Patterns*) and Investigation 4 (*Defining Your Own Pattern Blocks*) from Module 1: Tiling Patterns, from the ScratchMaths curriculum materials.
 
 The theme of Module 1: Tiling Patterns is repeating patterns. The activities in this Module involve creating patterns by moving, running and “stamping” shapes in Scratch.
 As mentioned in the teacher materials for Module 1, the Tiling Patterns Module’s activities could also be linked to other learning areas. 
@@ -18,8 +18,6 @@ The **computational concepts** covered in this module include *Sequences* and *L
 ## Metalanguage
 
 [algorithm](){: .metalanguage }, [computational thinking](){: .metalanguage }, [computational concept](){: .metalanguage}, [coding](){: .metalanguage }, [visual programming](){: .metalanguage }, [sequences](){: .metalanguage }, [loops](){: .metalanguage }, [debugging](){: .metalanguage }, [reset](){: .metalanguage}, [custom block](){: .metalanguage}
-
-<!-- Need to do definition for custom block -->
 
 ## Materials
 
