@@ -23,7 +23,7 @@ The **computational concepts** covered in this module include *Sequences* and *L
 
 ### Presentations
 
-- [Recap of Tiling Patterns Part 1]({{ site.drive_url | append: '1-0gdxrF5kxuyRiUDzC4zC-PgQIOT3N6C' }}){:target="_blank"} (PDF Presentation - Missing)
+- [Recap of Tiling Patterns Part 1]({{ site.drive_url | append: '1hgSUZZCXAAQ-K9mnL2iaNzCxqK8GZ3DV' }}){:target="_blank"} (PDF Presentation)
 - [Tiling Patterns Investigation 3]({{ site.drive_url | append: '1uk_hK3NTxT5XWGjcdXeYtBxqQt1pduEr' }}){:target="_blank"} (PDF Presentation)
 - [Tiling Patterns Investigation 4]({{ site.drive_url | append: '1A4I0qpvySWARf6spHwzDrnJCUC-RnusT' }}){:target="_blank"} (PDF Presentation)
 - [End of Session Presentation]({{ site.drive_url | append: '1vxwJU4vxPZ3_wmN7HJ2s-Dz63bVMxpE4' }}){:target="_blank"} (PDF Presentation - Missing)
@@ -31,6 +31,7 @@ The **computational concepts** covered in this module include *Sequences* and *L
 ### Activities
 
 - [Tiling Patterns Part 2: Teacher Materials]({{ site.drive_url | append: '1QQoWaDu7pKmHCdPAj5a61eGRRgj8Jnzb' }}){:target="_blank"} (PDF Document)
+- [Moving Backwards and Forwards Algorithm Video]({{ site.drive_url | append: '1KpSz7DpV34tIxTS4T6sA2V8s61_dlIi_' }}){:target="_blank"} (MOV Video)
 - [1.3.2 Unplugged - Predicting Patterns Activity Handout]({{ site.drive_url | append: '1roFhsgZUD0JSTXxOeM44YocjohOhCh9t' }}){:target="_blank"} (PDF Document)
 - [1.4.2 Unplugged - Reading Scripts 1 Activity Handout]({{ site.drive_url | append: '1zEg-00GNz-131vWpMnGZDbIfyrNMuEUn' }}){:target="_blank"} (PDF Document)
 - [Tiling Patterns Resources Download Page](http://www.ucl.ac.uk/ioe/research/projects/scratchmaths/curriculum-materials/module-1-tiling-patterns){:target="_blank"}
