@@ -10,6 +10,16 @@
 
 ---
 
+# Planning the Last 2 Sessions
+
+- The program was planned to run over 10 week term
+- The last 2 sessions can be run during the School Holidays
+- We would like to know about your availability during this time
+- *Week 4 > Links > Last 2 Weeks Planning Survey*
+- [https://www.surveymonkey.com/r/cs3_planning](https://www.surveymonkey.com/r/cs3_planning)
+
+---
+
 # Last Session
 
 - Introduced you to the ScratchMaths materials

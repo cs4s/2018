@@ -44,6 +44,7 @@ The **computational concepts** covered in this module include *Sequences* and *L
 
 - [Scratch Website](https://scratch.mit.edu/){:target="_blank"}
 - [UCL ScratchMaths Curriculum Materials](http://www.ucl.ac.uk/ioe/research/projects/scratchmaths){:target="_blank"}
+- [Last 2 Weeks Planning Survey](https://www.surveymonkey.com/r/cs3_planning){:target="_blank"}
 - [Weekly Journal Survey](https://www.surveymonkey.com/r/uon_coding_journal){:target="_blank"}
 
 ## Related Research
