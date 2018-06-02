@@ -26,7 +26,7 @@ The **computational concepts** covered in this module include *Sequences* and *L
 - [Recap of Tiling Patterns Part 1]({{ site.drive_url | append: '1hgSUZZCXAAQ-K9mnL2iaNzCxqK8GZ3DV' }}){:target="_blank"} (PDF Presentation)
 - [Tiling Patterns Investigation 3]({{ site.drive_url | append: '1uk_hK3NTxT5XWGjcdXeYtBxqQt1pduEr' }}){:target="_blank"} (PDF Presentation)
 - [Tiling Patterns Investigation 4]({{ site.drive_url | append: '1A4I0qpvySWARf6spHwzDrnJCUC-RnusT' }}){:target="_blank"} (PDF Presentation)
-- [End of Session Presentation]({{ site.drive_url | append: '1vxwJU4vxPZ3_wmN7HJ2s-Dz63bVMxpE4' }}){:target="_blank"} (PDF Presentation - Missing)
+- [End of Session Presentation]({{ site.drive_url | append: '1TVF9AGxasiyTQYVrrnwDZHcFlmbgimOX' }}){:target="_blank"} (PDF Presentation)
 
 ### Activities
 
@@ -38,7 +38,7 @@ The **computational concepts** covered in this module include *Sequences* and *L
 
 ### Homework
 
-- [Week 4 Homework Tasks]({{ site.drive_url | append: '' }}) (Word document - Missing)
+- [Week 4 Homework Tasks]({{ site.drive_url | append: '1N9DLxb-nlnKtFgKcLwmXlBUkk5JjvoSp' }}) (Word document)
 
 ### Links
 
