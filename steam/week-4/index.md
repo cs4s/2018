@@ -23,7 +23,7 @@ In the Part 2 session, we will focus on three activities from Unit 2 of the Crea
 
 ### Presentations
 
-- [Coding and the Creative Arts Recap]({{ site.drive_url | append: '' }}){:target="_blank"} (PDF Presentation - Missing)
+- [Recap of Last Session (Coding and the Creative Arts Part 1)]({{ site.drive_url | append: '13Vr6IIc2qv0OQ1RuW0XVKN4vfrnbFdYI' }}){:target="_blank"} (PDF Presentation)
 - [Coding and the Creative Arts 2]({{ site.drive_url | append: '' }}){:target="_blank"} (PDF Presentation - Missing)
 - [End of Session Presentation]({{ site.drive_url | append: '' }}){:target="_blank"} (PDF Presentation - Missing)
 
@@ -50,7 +50,6 @@ In the Part 2 session, we will focus on three activities from Unit 2 of the Crea
 - [A blog post that summarises Brennan's Dissertation](http://www.ethanhein.com/wp/2013/constructivist-learning-and-scratch/){:target="_blank"}
 
 ## Session Outcomes
-
 
 ##### Stage 3 NSW Syllabus Outcomes
 {: .collapse-outcomes-header}
