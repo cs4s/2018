@@ -25,7 +25,7 @@ In the Part 2 session, we will focus on three activities from Unit 2 of the Crea
 
 - [Recap of Last Session (Coding and the Creative Arts Part 1)]({{ site.drive_url | append: '13Vr6IIc2qv0OQ1RuW0XVKN4vfrnbFdYI' }}){:target="_blank"} (PDF Presentation)
 - [Coding and the Creative Arts 2]({{ site.drive_url | append: '1_MTmT-7i3na0sUQXP43pNY8uC-3XAH0U' }}){:target="_blank"} (PDF Presentation)
-- [End of Session Presentation]({{ site.drive_url | append: '' }}){:target="_blank"} (PDF Presentation - Missing)
+- [End of Session Presentation]({{ site.drive_url | append: '1Drh7GAhNtHyF1jnyLU7O961zCOfbNJOV' }}){:target="_blank"} (PDF Presentation)
 
 ### Activities
 
