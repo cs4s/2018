@@ -24,7 +24,7 @@ In the Part 2 session, we will focus on three activities from Unit 2 of the Crea
 ### Presentations
 
 - [Recap of Last Session (Coding and the Creative Arts Part 1)]({{ site.drive_url | append: '13Vr6IIc2qv0OQ1RuW0XVKN4vfrnbFdYI' }}){:target="_blank"} (PDF Presentation)
-- [Coding and the Creative Arts 2]({{ site.drive_url | append: '' }}){:target="_blank"} (PDF Presentation - Missing)
+- [Coding and the Creative Arts 2]({{ site.drive_url | append: '1_MTmT-7i3na0sUQXP43pNY8uC-3XAH0U' }}){:target="_blank"} (PDF Presentation)
 - [End of Session Presentation]({{ site.drive_url | append: '' }}){:target="_blank"} (PDF Presentation - Missing)
 
 ### Activities
@@ -32,15 +32,17 @@ In the Part 2 session, we will focus on three activities from Unit 2 of the Crea
 - [Creative Computing Unit 2: Animations Part 2]({{ site.drive_url | append: '1cdgU9Yt9dcT4el3N6Khg-US4L3eWaPt-' }}){:target="_blank"} (PDF Document)
 - [Extension: Coding to Make Music with Sonic Pi]({{ site.drive_url | append: '15a-dvVdQjcQ3ugCJgjlDrg07Xj4-CkSU' }}) (Word document)
 
-
 ### Homework
 
-- [Week 4 Homework Tasks]({{ site.drive_url | append: '' }}) (Word document - Missing)
+- [Week 4 Homework Tasks]({{ site.drive_url | append: '1Lu0pRjfXRwMEQpPXtCglTN4BTZNQ_s6Q' }}) (Word document)
+- [Homework Scene Video]({{ site.drive_url | append: '1-gXvbjtRwqzDLAAw2Jh4rt6YndunpyA6' }}) ((M4V File))
 
 ### Links
 
 - [Scratch Website](https://scratch.mit.edu/){:target="_blank"}
 - [ScratchEd's Creative Computing Curriculum Guide](http://scratched.gse.harvard.edu/guide/){:target="_blank"}
+- [Claymation Example Video]({{ site.drive_url | append: '1tyG6lrA1GVndDmxeFm7K2SBfjoV328BN' }}){:target="_blank"} (MP4 Video)
+- [Animations Activity - Scratch Studio](https://scratch.mit.edu/studios/475529/){:target="_blank"}
 - [Last 2 Weeks Planning Survey](https://www.surveymonkey.com/r/cs3_planning){:target="_blank"}
 - [Weekly Journal Survey](https://www.surveymonkey.com/r/uon_coding_journal){:target="_blank"}
 
