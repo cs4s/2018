@@ -35,7 +35,7 @@ In the Part 2 session, we will focus on three activities from Unit 2 of the Crea
 ### Homework
 
 - [Week 4 Homework Tasks]({{ site.drive_url | append: '1Lu0pRjfXRwMEQpPXtCglTN4BTZNQ_s6Q' }}) (Word document)
-- [Homework Scene Video]({{ site.drive_url | append: '1-gXvbjtRwqzDLAAw2Jh4rt6YndunpyA6' }}) ((M4V File))
+- [Homework Scene Video]({{ site.drive_url | append: '1-gXvbjtRwqzDLAAw2Jh4rt6YndunpyA6' }}) (M4V File)
 
 ### Links
 

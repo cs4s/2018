@@ -20,7 +20,7 @@
 
 ---
 
-# Creative Arts Part 1:
+# Creative Arts Part 2:
 
 - Three more activities from Unit 2 of the Guide:
     - *It's Alive!*
