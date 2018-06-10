@@ -383,6 +383,22 @@ When we refer to a **program**, we mean that the instructions for the computer t
 
 See the definition of [Coding](#coding) above.
 
+### Random
+
+In [Coding](#coding), you can often use different commands to create **Random** numbers.
+It is often useful to create **Random** numbers in [programs](#program) that involve simulations or some chance (such as rolling a dice).
+For example, if you are creating a card game in Scratch, you may need to have a deck of cards that you need to shuffle into **Random** order.
+
+In Scratch, one of the ways to create **Random** numbers is using the *pick random* block, which is in the *Operators* section of the blocks pane.
+For example, you may create a game in Scratch where the player rolls a die.
+To simulate the throwing of a die, you could use a *pick random* block that will randomly choose an integer (whole number) between 1 and 6.
+When this block, which is shown in the image below, is clicked, a **Random** number between 1 and 6 will be chosen.
+
+~~~
+pick random (1) to (6)
+~~~
+{: .language-scratch}
+
 ### Remixing
 
 **Remixing** is a [Computational Practice](#computational-practice), which refers to the practice in Scratch, and [Coding](#coding) more generally, of taking copies of [Programs](#program) and modifying them.
