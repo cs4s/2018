@@ -24,7 +24,7 @@ The **computational concepts** covered in this Module include: *Sequences*, *Ope
 - [Introduction to Beetle Geometry]({{ site.drive_url | append: '1Zf1hVVc2x85OlYrMUvRTfYwMwBmXslgo' }}){:target="_blank"} (PDF Presentation)
 - [Beetle Geometry Investigation 1]({{ site.drive_url | append: '1c9vl18k1ZEal2i5B7cZ6KJnj4cU2T_j_' }}){:target="_blank"} (PDF Presentation)
 - [Beetle Geometry Investigation 2]({{ site.drive_url | append: '1-ipwbqvaJjICH5E-ZUHK29lFMWGcgoYt' }}){:target="_blank"} (PDF Presentation)
-- [End of Session Presentation]({{ site.drive_url | append: '' }}){:target="_blank"} (PDF Presentation - Missing)
+- [End of Session Presentation]({{ site.drive_url | append: '1-haAkH1o2C-9nRoAl4cZ4efmiWMqInVt' }}){:target="_blank"} (PDF Presentation)
 
 ### Activities
 
