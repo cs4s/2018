@@ -42,7 +42,8 @@ The **computational concepts** covered in this Module include: *Sequences* and *
 - [Scratch Website](https://scratch.mit.edu/){:target="_blank"}
 - [UCL ScratchMaths Curriculum Materials](http://www.ucl.ac.uk/ioe/research/projects/scratchmaths){:target="_blank"}
 - [Weekly Journal Survey](https://www.surveymonkey.com/r/uon_coding_journal){:target="_blank"}
-- [Teacher Note: Body Syntonic from Computer Science Principles Course](http://ice-web.cc.gatech.edu/ce21/1/static/Teacher-CSP/CSPNameTurtles/bodySyntonic.html)
+- [Teacher Note: Body Syntonic from Computer Science Principles Course](http://ice-web.cc.gatech.edu/ce21/1/static/Teacher-CSP/CSPNameTurtles/bodySyntonic.html){:target="_blank"}
+- [Wikipedia: Turtle Graphics](https://en.wikipedia.org/wiki/Turtle_graphics){:target="_blank"}
 
 ## Related Research
 
