@@ -29,11 +29,12 @@ The **computational concepts** covered in this Module include: *Sequences*, *Ope
 ### Activities
 
 - [Beetle Geometry Part 1: Teacher Materials]({{ site.drive_url | append: '1a6asI3r-V8Okub8-deUy2yzWsdn2JM21' }}){:target="_blank"} (PDF Document)
+- [2.2.2 Unplugged - Polygon Scripts Activity Handout]({{ site.drive_url | append: '1lnDTH5nUYWdpazN1dUbbbJKl5HmycyDW' }}){:target="_blank"} (PDF Document)
 - [Beetle Geometry Resources Download Page](http://www.ucl.ac.uk/ioe/research/projects/scratchmaths/curriculum-materials/module-2-beetle-geometry){:target="_blank"}
 
 ### Homework
 
-- [Week 5 Homework Tasks]({{ site.drive_url | append: '' }}) (Word document - Missing)
+- [Week 5 Homework Tasks]({{ site.drive_url | append: '1LOal9noLtqx32heD0_WLgD13EEnTHyh6' }}) (Word document
 
 ### Links
 
