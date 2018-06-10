@@ -11,19 +11,17 @@ In this session, we will work through Investigation 1 (*Exploring Pen*) and Inve
 
 The focus of the ScratchMaths Module 2 is the use of Scratch’s pen tool to draw numerals, patterns, polygons and nature scenes. As mentioned in the Module 2 Teacher Materials, the Beetle Geometry activities could also be linked to other learning areas. For example, in Investigation 4 you will draw nature scenes in Scratch, which could be linked to lessons and concepts within HSIE: Geography. 
 
-The **computational concepts** covered in this Module include: *Sequences* and *Loops*. The mathematical concepts that are covered in this Module include: *Shapes* and their *Perimeters*, *Roman Numerals* and *Probability*.
+The **computational concepts** covered in this Module include: *Sequences*, *Operators* and *Loops*. The mathematical concepts that are covered in this Module include: *Shapes* and their *Perimeters*, *Roman Numerals* and *Probability*.
 
 ## Metalanguage
 
-[algorithm](){: .metalanguage }, [computational thinking](){: .metalanguage }, [computational concept](){: .metalanguage}, [coding](){: .metalanguage }, [visual programming](){: .metalanguage }, [sequences](){: .metalanguage }, [loops](){: .metalanguage }, [debugging](){: .metalanguage }, [custom block](){: .metalanguage}, [random](){: .metalanguage }
-
-<!-- Need to add definition for randomness -->
+[algorithm](){: .metalanguage }, [computational thinking](){: .metalanguage }, [computational concept](){: .metalanguage}, [coding](){: .metalanguage }, [visual programming](){: .metalanguage }, [sequences](){: .metalanguage }, [loops](){: .metalanguage }, [operators](){: .metalanguage}, [debugging](){: .metalanguage }, [custom block](){: .metalanguage}, [random](){: .metalanguage }
 
 ## Materials
 
 ### Presentations
 
-- [Introduction to Beetle Geometry]({{ site.drive_url | append: '' }}){:target="_blank"} (PDF Presentation - Missing)
+- [Introduction to Beetle Geometry]({{ site.drive_url | append: '1Zf1hVVc2x85OlYrMUvRTfYwMwBmXslgo' }}){:target="_blank"} (PDF Presentation)
 - [Beetle Geometry Investigation 1]({{ site.drive_url | append: '1c9vl18k1ZEal2i5B7cZ6KJnj4cU2T_j_' }}){:target="_blank"} (PDF Presentation)
 - [Beetle Geometry Investigation 2]({{ site.drive_url | append: '1-ipwbqvaJjICH5E-ZUHK29lFMWGcgoYt' }}){:target="_blank"} (PDF Presentation)
 - [End of Session Presentation]({{ site.drive_url | append: '' }}){:target="_blank"} (PDF Presentation - Missing)
