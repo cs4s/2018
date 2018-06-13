@@ -23,12 +23,13 @@ In the Part 1 session, we will focus on three activities from Unit 3 of the Crea
 
 ### Presentations
 
-- [Coding and English Part 1]({{ site.drive_url | append: '' }}){:target="_blank"} (PDF Presentation - Missing)
+- [Coding and English Part 1]({{ site.drive_url | append: '1Gr7asleACFZWpeuKdr-fHPqgzZTdXsn5' }}){:target="_blank"} (PDF Presentation)
 - [End of Session Presentation]({{ site.drive_url | append: '' }}){:target="_blank"} (PDF Presentation - Missing)
 
 ### Activities
 
 - [Creative Computing Unit 3: Stories Part 1]({{ site.drive_url | append: '14gk9-oldlYH3gqZNOQrKypOkC5nDVzFW' }}){:target="_blank"} (PDF Document)
+- [Broadcasting Activity: Example Blocks]() (PDF Document - Missing) 
 - [Extension: Code Club's Chatbot Project](https://codeclubprojects.org/en-GB/scratch/chatbot/){:target="_blank"}
 
 ### Homework
@@ -39,7 +40,9 @@ In the Part 1 session, we will focus on three activities from Unit 3 of the Crea
 
 - [Scratch Website](https://scratch.mit.edu/){:target="_blank"}
 - [ScratchEd's Creative Computing Curriculum Guide](http://scratched.gse.harvard.edu/guide/){:target="_blank"}
+- [Scratch Resources: Makign a Story Cards](https://resources.scratch.mit.edu/www/cards/en/storyCards.pdf){:target="_blank"}
 - [CS First: Storytelling Unit - Lesson Plans](https://csfirst.withgoogle.com/clubplan/storytelling){:target="_blank"}
+- [ScratchEd: Scratch Across Every Subject: Literacy](http://scratched.gse.harvard.edu/resources/scratch-across-every-subject-literacy){:target="_blank"}
 - [How to Use Scratch for Digital Storytelling - Blog Post](https://www.commonsense.org/education/blog/how-to-use-scratch-for-digital-storytelling){:target="_blank"}
 - [Weekly Journal Survey](https://www.surveymonkey.com/r/uon_coding_journal){:target="_blank"}
 
@@ -49,7 +52,6 @@ In the Part 1 session, we will focus on three activities from Unit 3 of the Crea
 - [Caitlin Kelleher & Randy Pausch: Using Storytelling To Motivate Programming](http://thales.philos.k.hosei.ac.jp/interaction/cacm50(7)/p58-kelleher.pdf){:target="_blank"}
 
 ## Session Outcomes
-
 
 ##### Stage 3 NSW Syllabus Outcomes
 {: .collapse-outcomes-header}
