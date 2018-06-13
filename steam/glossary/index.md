@@ -348,6 +348,18 @@ length of [world]
 ~~~
 {: .language-scratch}
 
+
+### Pair Programming
+
+**Pair Programming** involves having students work on [Coding](#coding) projects together on one computer, usually in pairs of two.
+This approach can help encourage collaboration between students when they are learning [Computational Thinking](#computational-thinking).
+
+There are two main roles in **Pair Programming**: the *driver* and the *observer/navigator*.
+The *driver* usually creates the Code (e.g. by dragging and dropping blocks into Scratch), while the *observer/nagivator* talks them through creating the Code and reviews what they have created.
+Pair programmers often switch between these two roles when working on [Coding](#coding) together.
+
+[This video from the Code.org website](https://www.youtube.com/watch?v=vgkahOzFH2Q){:target="_blank"} shows an example of how **Pair Programming** can be used in a classroom.
+
 ### Parallelism
 
 **Parallelism** is another [Computational Concept](#computational-concept), which refers to [Sequences](#sequences) of instructions that are followed by a computer at the same time.
@@ -532,10 +544,66 @@ Examples of other **Visual Programming** languages include [GP Blocks](https://g
 
 ## Scratch Terms
 
+### Backpack
+
+The **Backpack** is a feature in the online version of Scratch, which allows you to copy [Costumes](#costumes), [Sprites](#sprites), Sounds, and Scripts between different projects.
+This feature is useful when you have a useful script in one project and you don't want to create this script "from scratch" in another project.
+
+In the editor view of Scratch, you can drag and drop the [Costumes](#costumes), [Sprites](#sprites), Sounds, and Scripts into the **Backpack**.
+Then, when you are in the project you want to copy the objects to, you can drag them out of the **Backpack**.
+
+You can read more about the **Backpack** feature in Scratch on [this page of the ScratchWiki](https://en.scratch-wiki.info/wiki/Backpack){:target="_blank"}.
+
 ### Block
 
 A *command* which tells the [Sprite](#sprite) what to do.
 When a **block** is clicked, the [Sprite](#sprite) will follow that instruction.
+
+### Broadcasting
+
+**Broadcasting** in Scratch is used to send messages between [Sprites](#sprite).
+This can be useful when you need to have some interactions between two or more [Sprites](#sprite).
+For example, you can use **Broadcasting** for creating a conversation between two [Sprites](#sprite).
+
+An example of the application of **Broadcasting**, which uses *broadcast* and *when I receive* blocks, for a conversation between two [Sprites](#sprite) is shown below.
+
+Say that we have the following conversation between two [Sprites](#sprite): a *Cat* and a *Dog*.
+
+*Cat: Hey Dog!*
+
+*Dog: Hey Cat! How's it going?*
+
+*Cat: I'm good, thanks!*
+
+*Dog: That's great, let's go to class!*
+
+The blocks for the *Cat* could look like this:
+
+~~~
+
+when gf clicked
+	say [Hey Dog!] for (2) secs
+	broadcast [message1 v]
+
+when I receive [message2]
+	say [I'm good, thanks!] for (2) secs
+	broadcast [message3 v]
+
+~~~
+{: .language-scratch}
+
+Then, the blocks for the *Dog* could look like this:
+
+~~~
+when I receive [message1 v]
+	say [Hey Cat! How's it going?] for (2) secs
+	broadcast [message2 v]
+
+when I receive [message3 v]
+	say [That's great, let's go to class!] for (2) secs
+
+~~~
+{: .language-scratch}
 
 ### Costumes
 

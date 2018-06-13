@@ -17,8 +17,6 @@ In the Part 1 session, we will focus on three activities from Unit 3 of the Crea
 
 [algorithm](){: .metalanguage }, [computational thinking](){: .metalanguage }, [computational concept](){: .metalanguage}, [coding](){: .metalanguage }, [visual programming](){: .metalanguage }, [sequences](){: .metalanguage }, [remixing](){: .metalanguage},  [events](){: .metalanguage }, [parallelism](){: .metalanguage }, [loops](){: .metalanguage }, [broadcasting](){: .metalanguage }, [custom block](){: .metalanguage }, [reset](){: .metalanguage }, [backpack](){: .metalanguage }, [pair programming](){: .metalanguage }, [debugging](){: .metalanguage}
 
-<!-- Definitions for backpack, broadcasting, pair programming need to be added -->
-
 ## Materials 
 
 ### Presentations
