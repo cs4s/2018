@@ -40,7 +40,7 @@ In the Part 1 session, we will focus on three activities from Unit 3 of the Crea
 
 - [Scratch Website](https://scratch.mit.edu/){:target="_blank"}
 - [ScratchEd's Creative Computing Curriculum Guide](http://scratched.gse.harvard.edu/guide/){:target="_blank"}
-- [Scratch Resources: Makign a Story Cards](https://resources.scratch.mit.edu/www/cards/en/storyCards.pdf){:target="_blank"}
+- [Scratch Resources: Create a Story Cards](https://resources.scratch.mit.edu/www/cards/en/storyCards.pdf){:target="_blank"}
 - [CS First: Storytelling Unit - Lesson Plans](https://csfirst.withgoogle.com/clubplan/storytelling){:target="_blank"}
 - [ScratchEd: Scratch Across Every Subject: Literacy](http://scratched.gse.harvard.edu/resources/scratch-across-every-subject-literacy){:target="_blank"}
 - [How to Use Scratch for Digital Storytelling - Blog Post](https://www.commonsense.org/education/blog/how-to-use-scratch-for-digital-storytelling){:target="_blank"}
