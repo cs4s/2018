@@ -29,7 +29,7 @@ In the Part 1 session, we will focus on three activities from Unit 3 of the Crea
 ### Activities
 
 - [Creative Computing Unit 3: Stories Part 1]({{ site.drive_url | append: '14gk9-oldlYH3gqZNOQrKypOkC5nDVzFW' }}){:target="_blank"} (PDF Document)
-- [Broadcasting Activity: Example Blocks]() (PDF Document - Missing) 
+- [Broadcasting Activity: Example Blocks](resources/combined_message_blocks.pdf){:target="_blank"} (PDF Document) 
 - [Extension: Code Club's Chatbot Project](https://codeclubprojects.org/en-GB/scratch/chatbot/){:target="_blank"}
 
 ### Homework
