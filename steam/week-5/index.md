@@ -27,22 +27,28 @@ In the Part 1 session, we will focus on three activities from Unit 3 of the Crea
 ### Activities
 
 - [Creative Computing Unit 3: Stories Part 1]({{ site.drive_url | append: '14gk9-oldlYH3gqZNOQrKypOkC5nDVzFW' }}){:target="_blank"} (PDF Document)
-- [Broadcasting Activity: Example Blocks](resources/combined_message_blocks.pdf){:target="_blank"} (PDF Document) 
+- [Broadcasting Activity: Example Blocks](resources/combined_message_blocks.pdf){:target="_blank"} (PDF Document)
 - [Extension: Code Club's Chatbot Project](https://codeclubprojects.org/en-GB/scratch/chatbot/){:target="_blank"}
 
 ### Homework
 
+- [Homework Slideshow Video]({{ site.drive_url | append: '1UQnQ2Ml7-PS0iDMFDJ17GBzYkccvq61j' }}){:target="_blank"} (M4V File)
 - [Week 5 Homework Tasks]({{ site.drive_url | append: '1Lu0pRjfXRwMEQpPXtCglTN4BTZNQ_s6Q' }}) (Word document - Missing)
 
 ### Links
 
+#### Workshop Links
+
 - [Scratch Website](https://scratch.mit.edu/){:target="_blank"}
 - [ScratchEd's Creative Computing Curriculum Guide](http://scratched.gse.harvard.edu/guide/){:target="_blank"}
+- [Weekly Journal Survey](https://www.surveymonkey.com/r/uon_coding_journal){:target="_blank"}
+
+#### Storytelling with Scratch Links
+
 - [Scratch Resources: Create a Story Cards](https://resources.scratch.mit.edu/www/cards/en/storyCards.pdf){:target="_blank"}
 - [CS First: Storytelling Unit - Lesson Plans](https://csfirst.withgoogle.com/clubplan/storytelling){:target="_blank"}
 - [ScratchEd: Scratch Across Every Subject: Literacy](http://scratched.gse.harvard.edu/resources/scratch-across-every-subject-literacy){:target="_blank"}
 - [How to Use Scratch for Digital Storytelling - Blog Post](https://www.commonsense.org/education/blog/how-to-use-scratch-for-digital-storytelling){:target="_blank"}
-- [Weekly Journal Survey](https://www.surveymonkey.com/r/uon_coding_journal){:target="_blank"}
 
 ## Related Research
 
