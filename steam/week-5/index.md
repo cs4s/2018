@@ -7,7 +7,7 @@ title: Week 5 - Coding & STEAM - Coding in Stage 3
 
 ## About
 
-In the Coding and English sessions, you will learn about how the teaching of Coding can be linked with the teaching of English, through the creation of interactive stories in Scratch.
+In the Coding and English sessions, you will learn about how the teaching of Coding can be linked with the teaching of English, through the creation of digital stories in Scratch.
 
 This session’s activities have been adapted from Unit 3 (Stories) of the Creative Computing Curriculum guide. The activities in Unit 3 are intended to encourage discussions about authorship, re-using materials and remixing projects in Scratch.
 
@@ -22,18 +22,19 @@ In the Part 1 session, we will focus on three activities from Unit 3 of the Crea
 ### Presentations
 
 - [Coding and English Part 1]({{ site.drive_url | append: '1Gr7asleACFZWpeuKdr-fHPqgzZTdXsn5' }}){:target="_blank"} (PDF Presentation)
-- [End of Session Presentation]({{ site.drive_url | append: '' }}){:target="_blank"} (PDF Presentation - Missing)
+- [End of Session Presentation]({{ site.drive_url | append: '1zuivETsVgMQHMJy2_waLj5u4lJxuPxaA' }}){:target="_blank"} (PDF Presentation)
 
 ### Activities
 
 - [Creative Computing Unit 3: Stories Part 1]({{ site.drive_url | append: '14gk9-oldlYH3gqZNOQrKypOkC5nDVzFW' }}){:target="_blank"} (PDF Document)
 - [Broadcasting Activity: Example Blocks](resources/combined_message_blocks.pdf){:target="_blank"} (PDF Document)
+- [Sydney Slideshow Video with a Gliding Cat Sprite]({{ site.drive_url | append: '1UQnQ2Ml7-PS0iDMFDJ17GBzYkccvq61j' }}){:target="_blank"} (M4V File)
 - [Extension: Code Club's Chatbot Project](https://codeclubprojects.org/en-GB/scratch/chatbot/){:target="_blank"}
 
 ### Homework
 
-- [Homework Slideshow Video]({{ site.drive_url | append: '1UQnQ2Ml7-PS0iDMFDJ17GBzYkccvq61j' }}){:target="_blank"} (M4V File)
-- [Week 5 Homework Tasks]({{ site.drive_url | append: '1Lu0pRjfXRwMEQpPXtCglTN4BTZNQ_s6Q' }}) (Word document - Missing)
+- [Homework Slideshow Video]({{ site.drive_url | append: '1zwYWEfou95J06kUM6y8aZdq6lmUWdt_e' }}){:target="_blank"} (M4V File)
+- [Week 5 Homework Tasks]({{ site.drive_url | append: '1lMl33sJ4K2ReJzucE9waUo7qHWNt3yUW' }}) (Word document)
 
 ### Links
 
