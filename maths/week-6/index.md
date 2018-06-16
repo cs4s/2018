@@ -29,6 +29,8 @@ The **computational concepts** covered in this Module include: *Sequences*, *Ope
 ### Activities
 
 - [Beetle Geometry Part 2: Teacher Materials]({{ site.drive_url | append: '1wYThHoxBJHoTq2GzUgvsuEQvXPrUxRIW' }}){:target="_blank"} (PDF Document)
+- [Unplugged Activity: 2.3.2 - Picture Predictions Handout]({{ site.drive_url | append: '1eYEt1zLsHC23GfahXa9PLvc55ABBLzvh' }}){:target="_blank"} (PDF Document)
+- [Unplugged Activity: 2.4.2 - Reading Scripts 2 Handout]({{ site.drive_url | append: '1tWNX_JLiOyJWTZN2SbytPp8S22APbvnV' }}){:target="_blank"} (PDF Document)
 - [Beetle Geometry Resources Download Page](http://www.ucl.ac.uk/ioe/research/projects/scratchmaths/curriculum-materials/module-2-beetle-geometry){:target="_blank"}
 
 ### Homework
