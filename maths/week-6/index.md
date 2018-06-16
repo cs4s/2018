@@ -33,7 +33,7 @@ The **computational concepts** covered in this Module include: *Sequences*, *Ope
 
 ### Homework
 
-- [Week 6 Homework Task]({{ site.drive_url | append: '' }}) (Word document)
+- [Week 6 Homework Task]({{ site.drive_url | append: '' }}) (Word document - Missing)
 
 ### Links
 
