@@ -35,6 +35,7 @@ The **computational concepts** covered in this Module include: *Sequences*, *Ope
 
 ### Homework
 
+- [Nature Scene: A Walk in the Woods Example Video]({{ site.drive_url | append: '1m_Ykfefj12r5DHBAnb7Xh8pv7-lAYAvA' }}){:target="_blank"} (M4V File)
 - [Week 6 Homework Task]({{ site.drive_url | append: '' }}) (Word document - Missing)
 
 ### Links
