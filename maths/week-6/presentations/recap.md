@@ -1,4 +1,5 @@
-# Recap
+# Recap of
+
 # Beetle Geometry Part 1
 
 ## Coding in Stage 3: ScratchMaths
@@ -25,7 +26,7 @@
 - Includes learning about:
 	- **Computational Concepts:** *Sequences*, *Loops* and *Operators*
 	- **Mathematics Concepts:** *Shapes* and their *perimeters*, *Roman Numerals* and *Probability*
-- [Teacher Materials](http://www.ucl.ac.uk/ioe/research/projects/scratchmaths/curriculum-materials/module-1-tiling-patterns/files/SM_Y5_Module_1_Teacher_Materials.pdf) with Investigations and Activities
+- [Teacher Materials](http://www.ucl.ac.uk/ioe/research/projects/scratchmaths/curriculum-materials/module-2-beetle-geometry/files/SM_Y5_Module_2_Teacher_Materials.pdf) with Investigations and Activities
 
 ---
 
