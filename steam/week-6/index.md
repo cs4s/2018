@@ -11,7 +11,7 @@ In the Coding and English sessions, you will learn about how the teaching of Cod
 
 This session’s activities have been adapted from Unit 3 (Stories) of the Creative Computing Curriculum guide. The activities in Unit 3 are intended to encourage discussions about authorship, re-using materials and remixing projects in Scratch.
 
-In the Part 2 session, we will focus on three activities from Unit 3 of the Creative Computing Curriculum guide: *Debug It*, *Creature Construction* and *Pass It On*. 
+In the Part 2 session, we will focus on three activities from Unit 3 of the Creative Computing Curriculum guide: *Debug It!*, *Creature Construction* and *Pass It On*. 
 You will also learn about some other resources for the teaching of Coding alongside English and Languages.
 
 ## Metalanguage
@@ -33,7 +33,18 @@ You will also learn about some other resources for the teaching of Coding alongs
 
 ### Homework
 
-- [Week 6 Homework Tasks]({{ site.drive_url | append: '' }}) (Word document - Missing)
+#### Task
+
+- [Week 6 Homework Form Link](https://goo.gl/forms/nMbVBln3A3MouqTA2)
+- [Week 6 Homework Task]({{ site.drive_url | append: '' }}) (Word document - Missing)
+
+#### Projects
+
+- [Teens at the Castle](https://scratch.mit.edu/projects/10128197/){:target="_blank"}
+- [Dance Party](https://scratch.mit.edu/projects/10128067/){:target="_blank"}
+- [Hide and Seek](https://scratch.mit.edu/projects/10128368/){:target="_blank"}
+- [Wizard Spells](https://scratch.mit.edu/projects/11829803/){:target="_blank"}
+- [Cookie Bird](https://scratch.mit.edu/projects/229557976/){:target="_blank"}
 
 ### Links
 
@@ -101,7 +112,7 @@ You will also learn about some other resources for the teaching of Coding alongs
 | 3.4.2: Select and/or create and use a range of resources, including ICT, to engage students in their learning.                                  | In this session, you will learn about different resources for teaching Coding, including 'unplugged' methods that can be used when you do not have access to a computer lab.                                                                                                                                                                            |
 | 4.5.2: Incorporate strategies to promote the safe, responsible and ethical use of ICT in learning and teaching.                                 | In this session, you will learn about some of the ethical issues that can be encountered when creating digital stories in Scratch and how to address these with your students. For example, in the *Creature Construction* activity you will discuss potential issues with authorship and copyright when students collaborate on the creation of a story. |
 | 6.2.2: Participate in learning to update knowledge and practice, targeted to professional needs and school and/or system priorities.            | In this session, you will learn about Coding and Computational Thinking can be taught alongside objectives from the English syllabus.                                                                                                                                                                                                                   |
-| 6.4.2: Undertake professional learning programs designed to address identified student learning needs.                                          | In this session, you will be introduced to different teaching approaches for the teaching of Coding with English. Some of these teaching approaches could be more suitable to students with particular learning needs (for example, teaching students Coding by having them act out instructions in the Pass It On activity).                           |
+| 6.4.2: Undertake professional learning programs designed to address identified student learning needs.                                          | In this session, you will be introduced to different teaching approaches for the teaching of Coding with English. Some of these teaching approaches could be more suitable to students with particular learning needs (for example, teaching students Coding by having them act out instructions in the *Pass It On* activity).                           |
 {: .table .table-striped .table-bordered}
 
 
