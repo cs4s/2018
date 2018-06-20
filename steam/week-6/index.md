@@ -24,7 +24,7 @@ You will also learn about some other resources for the teaching of Coding alongs
 
 - [Recap of Last Session (Coding and the Creative Arts Part 1)]({{ site.drive_url | append: '1_T2I9mssMcijJUiNlyefVupZzOYAA-RX' }}){:target="_blank"} (PDF Presentation)
 - [Coding and the Creative Arts 2]({{ site.drive_url | append: '1HX_3OO18dBo9EH58AfTVTNkYi5piqJVW' }}){:target="_blank"} (PDF Presentation)
-- [End of Session Presentation]({{ site.drive_url | append: '' }}){:target="_blank"} (PDF Presentation - Missing)
+- [End of Session Presentation]({{ site.drive_url | append: '1TdycqByhhi9-68KkPsgsKRr6v9Geh0xp' }}){:target="_blank"} (PDF Presentation)
 
 ### Activities
 
