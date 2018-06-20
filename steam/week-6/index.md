@@ -22,7 +22,7 @@ You will also learn about some other resources for the teaching of Coding alongs
 
 ### Presentations
 
-- [Recap of Last Session (Coding and the Creative Arts Part 1)]({{ site.drive_url | append: '' }}){:target="_blank"} (PDF Presentation - Missing)
+- [Recap of Last Session (Coding and the Creative Arts Part 1)]({{ site.drive_url | append: '1_T2I9mssMcijJUiNlyefVupZzOYAA-RX' }}){:target="_blank"} (PDF Presentation)
 - [Coding and the Creative Arts 2]({{ site.drive_url | append: '' }}){:target="_blank"} (PDF Presentation - Missing)
 - [End of Session Presentation]({{ site.drive_url | append: '' }}){:target="_blank"} (PDF Presentation - Missing)
 
