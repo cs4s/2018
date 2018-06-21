@@ -36,7 +36,7 @@ You will also learn about some other resources for the teaching of Coding alongs
 #### Task
 
 - [Week 6 Homework Form Link](https://goo.gl/forms/nMbVBln3A3MouqTA2)
-- [Week 6 Homework Task]({{ site.drive_url | append: '' }}) (Word document - Missing)
+- [Week 6 Homework Task]({{ site.drive_url | append: '1oPVdxgHcbllaBcvNzz2WxSQhz0eqg4ZW' }}){:target="_blank"} (Word document)
 
 #### Projects
 
