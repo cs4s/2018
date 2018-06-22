@@ -27,8 +27,6 @@ The activities in this Module also build on computational and mathematical conce
 - [Interacting Sprites Investigation 4]({{ site.drive_url | append: '1HRXijmgeiG-Iu_lc8dBHTYPWtF1MeNnF' }}){:target="_blank"} (PDF Presentation)
 - [End of Session Presentation]({{ site.drive_url | append: '' }}){:target="_blank"} (PDF Presentation - Missing)
 
-https://drive.google.com/file/d//view?usp=sharing
-
 ### Activities
 
 - [Interacting Sprites Part 2: Teacher Materials (Investigation 2)]({{ site.drive_url | append: '1ww1J57uwRmg2iU_dRcULoSf_psSLx0tS' }}){:target="_blank"} (PDF Document)

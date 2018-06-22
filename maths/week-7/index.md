@@ -29,6 +29,7 @@ The activities in this Module also build on computational and mathematical conce
 ### Activities
 
 - [Interacting Sprites Part 1: Teacher Materials]({{ site.drive_url | append: '1IaAJFGgN5IhXkKwoTD0pnmMZbfYrAB0N' }}){:target="_blank"} (PDF Document)
+- [Extension: Interacting Sprites Challenges Part 1]({{ site.drive_url | append: '1C2jH-RkCMxFcjjj4aWnhlbhPgpYm9lp5' }}){:target="_blank"} (PDF Document)
 - [Interacting Sprites Resources Download Page](http://www.ucl.ac.uk/ioe/research/projects/scratchmaths/curriculum-materials/module-3-interacting-sprites){:target="_blank"}
 
 ### Homework
