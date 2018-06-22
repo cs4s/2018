@@ -7,7 +7,7 @@ title: Week 7 - ScratchMaths - Coding in Stage 3
 
 ## About
 
-In this session, we will work through Investigation 1 (*Animating Sprites*) and Investigation 2 (*Encountering Conditions*) from Module 3: Interacting Sprites, from the ScratchMaths Curriculum Materials.
+In this session, we will work through Investigation 1 (*Animating Sprites*) and the first activity from Investigation 2 (*Encountering Conditions*), which are from Module 3: Interacting Sprites, from the ScratchMaths Curriculum Materials.
 
 The focus of the ScratchMaths Module 3 is the use of interactions between multiple Sprites in Scratch. These interactions are achieved by using three **computational concepts** - *Conditionals*, *Parallelism* and *Events* - which will be introduced in this Module’s activities. As mentioned in the Module 3 Teacher Materials, the Interacting Sprites activities could also be linked to other key learning areas. For example, in Investigation 4 you will have the opportunity to create an interactive story in Scratch, which could be linked to lessons and concepts within the English syllabus. 
 
@@ -17,21 +17,18 @@ The activities in this Module also build on computational and mathematical conce
 
 [algorithm](){: .metalanguage }, [computational thinking](){: .metalanguage }, [computational concept](){: .metalanguage}, [coding](){: .metalanguage }, [visual programming](){: .metalanguage }, [sequences](){: .metalanguage }, [loops](){: .metalanguage }, [operators](){: .metalanguage}, [debugging](){: .metalanguage }, [custom block](){: .metalanguage}, [random](){: .metalanguage }, [conditionals](){: .metalanguage }, [broadcasting](){: .metalanguage}, [events](){: .metalanguage }, [sensing](){: .metalanguage }
 
-<!-- Add broadcasting and sensing to Maths glossary  -->
-
 ## Materials
 
 ### Presentations
 
 - [Introduction to Interacting Sprites]({{ site.drive_url | append: '' }}){:target="_blank"} (PDF Presentation - Missing)
 - [Interacting Sprites Investigation 1]({{ site.drive_url | append: '1ZvslcmTI5Lk6zlRvl6gTcH9jPFdRGwc_' }}){:target="_blank"} (PDF Presentation)
-- [Interacting Sprites Investigation 2]({{ site.drive_url | append: '1CvIZHCgxQFvmRszbQbZVU0h7svEWwq9C' }}){:target="_blank"} (PDF Presentation)
+- [Interacting Sprites Investigation 2 Part 1]({{ site.drive_url | append: '1CvIZHCgxQFvmRszbQbZVU0h7svEWwq9C' }}){:target="_blank"} (PDF Presentation)
 - [End of Session Presentation]({{ site.drive_url | append: '' }}){:target="_blank"} (PDF Presentation - Missing)
 
 ### Activities
 
 - [Interacting Sprites Part 1: Teacher Materials]({{ site.drive_url | append: '1IaAJFGgN5IhXkKwoTD0pnmMZbfYrAB0N' }}){:target="_blank"} (PDF Document)
-- Need to add Unplugged Handouts
 - [Interacting Sprites Resources Download Page](http://www.ucl.ac.uk/ioe/research/projects/scratchmaths/curriculum-materials/module-3-interacting-sprites){:target="_blank"}
 
 ### Homework

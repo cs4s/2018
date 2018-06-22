@@ -697,6 +697,25 @@ end
 {: .language-scratch}
 
 
+### Sensing
+
+**Sensing** is a category of blocks in Scratch, which are all coloured light blue.
+The blocks in the **Sensing** category have a variety of effects, mostly related to the detection of different features in the project.
+For example, you can use the *touching?* block to detect when two [Sprites](#sprite) are touching each other.
+
+**Sensing** blocks are often combined with [conditionals](#conditionals) in [programs](#program).
+For example, you may create a game in Scratch where a Spaceship dodges a bullet fired by an enemy spaceship.
+The *touching?* block below, which could be in the Spaceship's Scripts, is used to make the Spaceship say "You lost!" when the bullet collides with the Spaceship.
+
+~~~
+if <touching [bullet v] ?> then
+	say [You lost!] for (2) secs
+end
+~~~
+{: .language-scratch}
+
+You can read about the different types of **Sensing** blocks [on this page on the Scratch Wiki](https://en.scratch-wiki.info/wiki/Sensing_Blocks){:target="_blank"}
+
 ### Script
 
 A **script** is a sequence of blocks snapped together, a program.
