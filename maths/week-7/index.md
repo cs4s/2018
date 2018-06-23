@@ -34,7 +34,8 @@ The activities in this Module also build on computational and mathematical conce
 
 ### Homework
 
-- [Week 7 Homework Task]({{ site.drive_url | append: '' }}) (Word document - Missing)
+- [Homework Scene Video]({{ site.drive_url | append: '14j_xri6AQ9PjI6ntL6rSdENcgQ2lxLBk' }}){:target="_blank"} (M4V Video File)
+- [Week 7 Homework Task]({{ site.drive_url | append: '1-zNUHUbHDGD_jjwdEjNxPX236IlOlke_' }}) (Word document)
 
 ### Links
 
