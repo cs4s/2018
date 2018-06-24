@@ -9,7 +9,7 @@ title: Week 7 - ScratchMaths - Coding in Stage 3
 
 In this session, we will work through Investigation 1 (*Animating Sprites*) and the first activity from Investigation 2 (*Encountering Conditions*), which are from Module 3: Interacting Sprites, from the ScratchMaths Curriculum Materials.
 
-The focus of the ScratchMaths Module 3 is the use of interactions between multiple Sprites in Scratch. These interactions are achieved by using three **computational concepts** - *Conditionals*, *Parallelism* and *Events* - which will be introduced in this Module’s activities. As mentioned in the Module 3 Teacher Materials, the Interacting Sprites activities could also be linked to other key learning areas. For example, in Investigation 4 you will have the opportunity to create an interactive story in Scratch, which could be linked to lessons and concepts within the English syllabus. 
+The focus of the ScratchMaths Module 3 is the use of interactions between multiple Sprites in Scratch. These interactions are achieved by using three **computational concepts** - *Conditionals*, *Parallelism*,*Events* and *Conditionals* - which will be introduced in this Module’s activities. As mentioned in the Module 3 Teacher Materials, the Interacting Sprites activities could also be linked to other key learning areas. For example, in Investigation 4 you will have the opportunity to create an interactive story in Scratch, which could be linked to lessons and concepts within the English syllabus. 
 
 The activities in this Module also build on computational and mathematical concepts from previous Modules, such as: *Probability*, *Sequences*, *Loops*, *Operators* and *Geometry*. 
 
@@ -24,7 +24,7 @@ The activities in this Module also build on computational and mathematical conce
 - [Introduction to Interacting Sprites]({{ site.drive_url | append: '1RpIOjTUzwsJuNTsvHMELYu2i_6USZjbN' }}){:target="_blank"} (PDF Presentation)
 - [Interacting Sprites Investigation 1]({{ site.drive_url | append: '1ZvslcmTI5Lk6zlRvl6gTcH9jPFdRGwc_' }}){:target="_blank"} (PDF Presentation)
 - [Interacting Sprites Investigation 2 Part 1]({{ site.drive_url | append: '1CvIZHCgxQFvmRszbQbZVU0h7svEWwq9C' }}){:target="_blank"} (PDF Presentation)
-- [End of Session Presentation]({{ site.drive_url | append: '' }}){:target="_blank"} (PDF Presentation - Missing)
+- [End of Session Presentation]({{ site.drive_url | append: '1BoOn7vzgM0xn2b9xCod5pbb4dpkCxOtD' }}){:target="_blank"} (PDF Presentation)
 
 ### Activities
 
@@ -48,7 +48,6 @@ The activities in this Module also build on computational and mathematical conce
 - [Bridging Primary Programming and Mathematics: Some Findings of Design Research in England](https://link.springer.com/article/10.1007/s40751-017-0028-x){:target="_blank"}
 
 ## Session Outcomes
-
 
 ##### Stage 3 NSW Syllabus Outcomes
 {: .collapse-outcomes-header}
