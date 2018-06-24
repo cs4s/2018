@@ -21,7 +21,7 @@ The activities in this Module also build on computational and mathematical conce
 
 ### Presentations
 
-- [Introduction to Interacting Sprites]({{ site.drive_url | append: '' }}){:target="_blank"} (PDF Presentation - Missing)
+- [Introduction to Interacting Sprites]({{ site.drive_url | append: '1RpIOjTUzwsJuNTsvHMELYu2i_6USZjbN' }}){:target="_blank"} (PDF Presentation)
 - [Interacting Sprites Investigation 1]({{ site.drive_url | append: '1ZvslcmTI5Lk6zlRvl6gTcH9jPFdRGwc_' }}){:target="_blank"} (PDF Presentation)
 - [Interacting Sprites Investigation 2 Part 1]({{ site.drive_url | append: '1CvIZHCgxQFvmRszbQbZVU0h7svEWwq9C' }}){:target="_blank"} (PDF Presentation)
 - [End of Session Presentation]({{ site.drive_url | append: '' }}){:target="_blank"} (PDF Presentation - Missing)
