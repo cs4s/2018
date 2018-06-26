@@ -29,7 +29,7 @@
 ---
 
 
-# Week 4: Recreate this Animation
+# Week 7: Recreate this Animation
 
 - [Homework Scene](https://drive.google.com/uc?export=view&id=14j_xri6AQ9PjI6ntL6rSdENcgQ2lxLBk)
     - Available to view and download from *Homework > Homework Scene Video* on Week 7 page as well
@@ -37,7 +37,7 @@
 
 ---
 
-# Week 4: 6 Steps
+# Week 7: 6 Steps
 
 1. Create a Project Titled "Homework Scene"
 2. Change the Backdrop and Delete the Cat

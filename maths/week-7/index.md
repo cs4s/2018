@@ -9,7 +9,7 @@ title: Week 7 - ScratchMaths - Coding in Stage 3
 
 In this session, we will work through Investigation 1 (*Animating Sprites*) and the first activity from Investigation 2 (*Encountering Conditions*), which are from Module 3: Interacting Sprites, from the ScratchMaths Curriculum Materials.
 
-The focus of the ScratchMaths Module 3 is the use of interactions between multiple Sprites in Scratch. These interactions are achieved by using three **computational concepts** - *Conditionals*, *Parallelism*,*Events* and *Conditionals* - which will be introduced in this Module’s activities. As mentioned in the Module 3 Teacher Materials, the Interacting Sprites activities could also be linked to other key learning areas. For example, in Investigation 4 you will have the opportunity to create an interactive story in Scratch, which could be linked to lessons and concepts within the English syllabus. 
+The focus of the ScratchMaths Module 3 is the use of interactions between multiple Sprites in Scratch. These interactions are achieved by using three **computational concepts** - *Conditionals*, *Parallelism*, *Events* and *Conditionals* - which will be introduced in this Module’s activities. As mentioned in the Module 3 Teacher Materials, the Interacting Sprites activities could also be linked to other key learning areas. For example, in Investigation 4 you will have the opportunity to create an interactive story in Scratch, which could be linked to lessons and concepts within the English syllabus. 
 
 The activities in this Module also build on computational and mathematical concepts from previous Modules, such as: *Probability*, *Sequences*, *Loops*, *Operators* and *Geometry*. 
 
