@@ -33,13 +33,39 @@ In the Part 1 session, we will focus on four activities from Unit 4 of the Creat
 
 ### Activities
 
+#### Games Activities
+
 - [Creative Computing Unit 4: Games Part 1]({{ site.drive_url | append: '1ak5YtRen9SVKBt7ma6lwurf_TMNAvS2t' }}){:target="_blank"} (PDF Document)
-- [Extra Activity: Making the Cookie Bird Game Tutorial]({{ site.drive_url | append: '1PbAYqUOa1gV3_WiShWTD1-2R0oG9Sc0A' }}) (Word document)
-- [Extra Activity: Making the Cookie Bird Game Resources]({{ site.drive_url | append: '1WVsaksSYrkEdsACzbC_6_EViRT-dfMa8' }}) (ZIP File)
+
+#### Starter Games Projects
+
+- [Maze Project](https://scratch.mit.edu/projects/230587476/#editor){:target="_blank"}
+- [Pong Project](https://scratch.mit.edu/projects/230588269/#editor){:target="_blank"}
+- [Scrolling Project](https://scratch.mit.edu/projects/230589078/#editor){:target="_blank"}
+
+#### Extra Activity
+
+- [Making the Cookie Bird Game Tutorial]({{ site.drive_url | append: '1PbAYqUOa1gV3_WiShWTD1-2R0oG9Sc0A' }}) (Word document)
+- [Making the Cookie Bird Game Resources]({{ site.drive_url | append: '1WVsaksSYrkEdsACzbC_6_EViRT-dfMa8' }}) (ZIP File)
 
 ### Homework
 
+#### Task 
+
+- [Week 7 Homework Form Link](https://goo.gl/forms/pMEuPs8FcYjdLypk1){:target="_blank"}
 - [Week 7 Homework Task]({{ site.drive_url | append: '' }}) (Word document - Missing)
+
+#### Extensions Projects
+
+- [Score](http://scratch.mit.edu/projects/1940443){:target="_blank"}
+- [Levels](http://scratch.mit.edu/projects/1940453){:target="_blank"}
+- [Timer](http://scratch.mit.edu/projects/1940445){:target="_blank"}
+- [Enemies](http://scratch.mit.edu/projects/1940450){:target="_blank"}
+- [Rewards](https://scratch.mit.edu/projects/1940456/){:target="_blank"}
+- [Mouse](https://scratch.mit.edu/projects/25192659/){:target="_blank"}
+- [Restart](https://scratch.mit.edu/projects/25192935/){:target="_blank"}
+- [Menu](https://scratch.mit.edu/projects/25192991/){:target="_blank"}
+- [Multiplayer](https://scratch.mit.edu/projects/25192711/){:target="_blank"}
 
 ### Links
 
