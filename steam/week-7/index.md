@@ -10,7 +10,7 @@ title: Week 7 - Coding & STEAM - Coding in Stage 3
 In the Coding and Mathematics sessions, you will learn how the creation of games in Scratch can be linked to the teaching of Mathematics concepts.
 
 The teaching of Mathematics alongside Coding has been an area of great interest since the first educational Coding languages were created in the 1970s.
-One of the main approaches for combining the teaching of Mathematics and Coding has involved students designing and Coding their own games.
+One of the approaches for combining the teaching of Mathematics and Coding has involved students designing and Coding their own games.
 An example of a project where students learned Mathematics through game design was [Project Headlight](https://www.youtube.com/watch?v=Asos2_Y3UZc){:target="_blank"}, which ran during the late 1980s and early 1990s in a school in Boston, USA.
 A more recent example of a similar project is [Globaloria](https://globaloria.com/){:target="_blank"}, which is an organisation that provides online courses that teach about the use of game design to help develop students' STEM (Science, Technology, Engineering and Mathematics) skills. 
 
@@ -18,7 +18,7 @@ The session’s activities have been adapted from Unit 4 (Games) of the Creative
 The activities in Unit 4 are intended to encourage students to develop Scratch projects are personally relevant and meaningful to them. 
 The authors of the guide argue that this personal relevance and meaning will help students persevere when they encounter challenging problems when Coding in Scratch.
 
-In the Part 1 session, we will focus on three activities from Unit 4 of the Creative Computing Curriculum guide: *Dream Game List*, *Starter Games* and *Score*.
+In the Part 1 session, we will focus on four activities from Unit 4 of the Creative Computing Curriculum guide: *Dream Game List*, *Starter Games*, *Score* and *Extensions*.
 
 ## Metalanguage
 
@@ -28,13 +28,14 @@ In the Part 1 session, we will focus on three activities from Unit 4 of the Crea
 
 ### Presentations
 
-- [Coding and Mathematics Part 1]({{ site.drive_url | append: '' }}){:target="_blank"} (PDF Presentation - Missing)
+- [Coding and Mathematics Part 1]({{ site.drive_url | append: '1pgg6O4MxsKtKMEI6JTDOYhhSMNFbvx2f' }}){:target="_blank"} (PDF Presentation)
 - [End of Session Presentation]({{ site.drive_url | append: '' }}){:target="_blank"} (PDF Presentation - Missing)
 
 ### Activities
 
 - [Creative Computing Unit 4: Games Part 1]({{ site.drive_url | append: '1ak5YtRen9SVKBt7ma6lwurf_TMNAvS2t' }}){:target="_blank"} (PDF Document)
-- Extension - need to add Making Cookie Bird resources and tutorial
+- [Extra Activity: Making the Cookie Bird Game Tutorial]({{ site.drive_url | append: '1PbAYqUOa1gV3_WiShWTD1-2R0oG9Sc0A' }}) (Word document)
+- [Extra Activity: Making the Cookie Bird Game Resources]({{ site.drive_url | append: '1WVsaksSYrkEdsACzbC_6_EViRT-dfMa8' }}) (ZIP File)
 
 ### Homework
 
@@ -48,6 +49,9 @@ In the Part 1 session, we will focus on three activities from Unit 4 of the Crea
 
 ## Related Research
 
+- [Game Design as an Interactive Learning Environment for Fostering Students' and Teachers' Mathematical Inquiry](https://pdfs.semanticscholar.org/9902/3889efb026027e4e642cda9416024980c700.pdf){:target="_blank"}
+- [Constructionist Gaming: Understanding the Benefits of Making Games for Learning](https://static1.squarespace.com/static/526b2134e4b0ed588497ad8e/t/5806838bbebafbcfa832f3d4/1476821899951/2015_KafaiBurke+_Edpsych.pdf){:target="_blank"}
+- [A Scoping Review of Studies on Computational Thinking in K–12 Mathematics Classrooms](http://hckmd.com/papers/2018/ct_scoping_review_draft.pdf){:target="_blank"}
 
 ## Session Outcomes
 
