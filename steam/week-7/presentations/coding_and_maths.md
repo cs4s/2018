@@ -154,6 +154,18 @@
 
 ---
 
+# Starter Games: Computational Concepts?
+
+- Sequences
+- Loops
+- Events
+- Parallelism
+- Operators
+- Conditionals
+- Data
+
+---
+
 # Score
 
 - The next activity involves adding a *Score* to an existing project
