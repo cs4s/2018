@@ -15,7 +15,7 @@ title: Coding in Stage 3 - ScratchMaths - Schedule
 4      |  [Coding and the Creative Arts Part 2](week-4/)                |  Friday 8th June 4:30pm - 6:30pm   |  [HC47, Hunter Building @ the Callaghan Campus](https://studentvip.com.au/newcastle/newcastle/maps/103159)
 5      |  [Coding and English Part 1](week-5/)                          |  Friday 15th June 4:30pm - 6:30pm  |  [HC47, Hunter Building @ the Callaghan Campus](https://studentvip.com.au/newcastle/newcastle/maps/103159)
 6      |  [Coding and English Part 2](week-6/)                         |  Friday 22nd June 4:30pm - 6:30pm  |  [HC47, Hunter Building @ the Callaghan Campus](https://studentvip.com.au/newcastle/newcastle/maps/103159)
-7      |  Coding and Mathematics Part 1                      |  Friday 29th June 4:30pm - 6:30pm  |  [HC47, Hunter Building @ the Callaghan Campus](https://studentvip.com.au/newcastle/newcastle/maps/103159)
+7      |  [Coding and Mathematics Part 1](week-7/)                      |  Friday 29th June 4:30pm - 6:30pm  |  [HC47, Hunter Building @ the Callaghan Campus](https://studentvip.com.au/newcastle/newcastle/maps/103159)
 8      |  Coding and Mathematics Part 2                      |  Friday 6th July 4:30pm - 6:30pm   |  [HC47, Hunter Building @ the Callaghan Campus](https://studentvip.com.au/newcastle/newcastle/maps/103159)
 9      |  Coding and Science and Technology Part 1           |  TBC                               |  TBC
 10     |  Coding and Science and Technology Part 2           |  TBC                               |  TBC
