@@ -29,7 +29,7 @@ In the Part 1 session, we will focus on four activities from Unit 4 of the Creat
 ### Presentations
 
 - [Coding and Mathematics Part 1]({{ site.drive_url | append: '1pgg6O4MxsKtKMEI6JTDOYhhSMNFbvx2f' }}){:target="_blank"} (PDF Presentation)
-- [End of Session Presentation]({{ site.drive_url | append: '' }}){:target="_blank"} (PDF Presentation - Missing)
+- [End of Session Presentation]({{ site.drive_url | append: '1fORagRpqhzQnz3_V73LF88WGhimTMpkA' }}){:target="_blank"} (PDF Presentation)
 
 ### Activities
 
@@ -53,7 +53,7 @@ In the Part 1 session, we will focus on four activities from Unit 4 of the Creat
 #### Task 
 
 - [Week 7 Homework Form Link](https://goo.gl/forms/pMEuPs8FcYjdLypk1){:target="_blank"}
-- [Week 7 Homework Task]({{ site.drive_url | append: '' }}) (Word document - Missing)
+- [Week 7 Homework Task]({{ site.drive_url | append: '1Byk356KjfAeSeS32IxZzpuKaeemDEJCO' }}) (Word document)
 
 #### Extensions Projects
 
