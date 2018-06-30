@@ -27,14 +27,13 @@ The activities in this Module also build on computational and mathematical conce
 - [Interacting Sprites Investigation 4]({{ site.drive_url | append: '1HRXijmgeiG-Iu_lc8dBHTYPWtF1MeNnF' }}){:target="_blank"} (PDF Presentation)
 - [End of Session Presentation]({{ site.drive_url | append: '' }}){:target="_blank"} (PDF Presentation - Missing)
 
-
-
 ### Activities
 
 - [Interacting Sprites Part 2: Teacher Materials (Investigation 2)]({{ site.drive_url | append: '1ww1J57uwRmg2iU_dRcULoSf_psSLx0tS' }}){:target="_blank"} (PDF Document)
 - [Interacting Sprites Part 3: Teacher Materials]({{ site.drive_url | append: '1WUtIXfbS1X_5O7AuqhLMV_MAz6hfRfQR' }}){:target="_blank"} (PDF Document)
 - [Unplugged Activity: 3.2.4 - True or False? Handout]({{ site.drive_url | append: '11vdj-BeUp5jY7ZzJV0uK2Omv-6HjaS95' }}){:target="_blank"} (PDF Document)
 - [Unplugged Activity: 3.4.1 - Reading Scripts 3 Handout]({{ site.drive_url | append: '1mNhuF4PXFNOW4qDGlJfTZYbaMqc159NL' }}){:target="_blank"} (PDF Document)
+- [Broadcasting Activity: Example Blocks](resources/combined_message_blocks.pdf){:target="_blank"} (PDF Document)
 - [Interacting Sprites Resources Download Page](http://www.ucl.ac.uk/ioe/research/projects/scratchmaths/curriculum-materials/module-3-interacting-sprites){:target="_blank"}
 
 ### Homework
