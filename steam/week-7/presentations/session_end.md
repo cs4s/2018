@@ -12,7 +12,7 @@
 
 # Recap: Unit 4 - Games
 
-- We started the third Unit: **Stories**
+- We started the fourth Unit: **Games**
 - New **Computational Concepts:** *Conditionals*, *Operators* and *Data*
 - Focus is on the use of Scratch for *Game Design*
 - Activities be linked to outcomes in *Mathematics*, particularly *Numbers & Algebra*
@@ -20,7 +20,7 @@
 
 ---
 
-# English Part 1:
+# Mathematics Part 1:
 
 - Three activities from the Guide:
     - **Dream Game List**
@@ -33,7 +33,6 @@
 
 - Every week we will ask you to complete Homework
 - Contributes towards your NESA accreditation hours (each week is 1 hour, for a total of 10 hours)
-- After you have finished, please email me and let me know, so I can record this
 - The tasks and links to complete this homework will always be available on the session page, under the *Homework* heading 	
 
 ---
