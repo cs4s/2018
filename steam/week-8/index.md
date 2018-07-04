@@ -29,8 +29,8 @@ In the Part 2 session, we will focus on two activities from Unit 4 of the Creati
 ### Presentations
 
 - [Recap of Last Session (Coding and Mathematics Part 1)]({{ site.drive_url | append: '11q9MXP6z3JZHtGI1BoDMNoLHAUHgNOex' }}){:target="_blank"} (PDF Presentation)
-- [Coding and Mathematics 2]({{ site.drive_url | append: '' }}){:target="_blank"} (PDF Presentation - Missing)
-- [End of Session Presentation]({{ site.drive_url | append: '' }}){:target="_blank"} (PDF Presentation - Missing)
+- [Coding and Mathematics 2]({{ site.drive_url | append: '1bRClkFighT7vNq4PwKssLJczilRmxSat' }}){:target="_blank"} (PDF Presentation)
+- [End of Session Presentation]({{ site.drive_url | append: '1hMm68kcW8CzhXyZ3_ITiFp5yDgK9KFrd' }}){:target="_blank"} (PDF Presentation)
 
 ### Activities
 
