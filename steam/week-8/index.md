@@ -28,7 +28,7 @@ In the Part 2 session, we will focus on two activities from Unit 4 of the Creati
 
 ### Presentations
 
-- [Recap of Last Session (Coding and Mathematics Part 1)]({{ site.drive_url | append: '' }}){:target="_blank"} (PDF Presentation - Missing)
+- [Recap of Last Session (Coding and Mathematics Part 1)]({{ site.drive_url | append: '11q9MXP6z3JZHtGI1BoDMNoLHAUHgNOex' }}){:target="_blank"} (PDF Presentation)
 - [Coding and Mathematics 2]({{ site.drive_url | append: '' }}){:target="_blank"} (PDF Presentation - Missing)
 - [End of Session Presentation]({{ site.drive_url | append: '' }}){:target="_blank"} (PDF Presentation - Missing)
 
@@ -49,7 +49,7 @@ If you complete the Creative Computing activities before the end of the session,
 
 - [Week 8 Homework Interactions Puzzles]({{ site.drive_url | append: '1wqot0EYqEQeJlJutg4ROofInCAuaYnoi' }}){:target="_blank"} (PDF Document)
 - [Week 8 Homework Form Link](https://goo.gl/forms/1oqtEw7rpgih5xQj1){:target="_blank"}
-- [Week 8 Homework Task]({{ site.drive_url | append: '' }}) (Word document - Missing)
+- [Week 8 Homework Task]({{ site.drive_url | append: '1W5CYPEhx-w5_xZUK67Kc6HNAzuDYPRR8' }}) (Word document)
 
 ### Links
 
