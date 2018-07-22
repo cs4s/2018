@@ -17,6 +17,6 @@ Week   |  Session                                            |  Date and Time   
 6      |  [Beetle Geometry Part 2](week-6/)                             |  Monday 18th June 4:30pm - 6:30pm   |  [HC47, Hunter Building @ the Callaghan Campus](https://studentvip.com.au/newcastle/newcastle/maps/103159)
 7      |  [Interacting Sprites Part 1](week-7/)                         |  Monday 25th June 4:30pm - 6:30pm   |  [HC47, Hunter Building @ the Callaghan Campus](https://studentvip.com.au/newcastle/newcastle/maps/103159)
 8      |  [Interacting Sprites Part 2](week-8/)                         |  Monday 2nd July 4:30pm - 6:30pm    |  [HC47, Hunter Building @ the Callaghan Campus](https://studentvip.com.au/newcastle/newcastle/maps/103159)
-9      |  Exploring Mathematical Relationships Part 1        |  Monday 23rd July 5:00pm - 7:00pm                                |  [HC47, Hunter Building @ the Callaghan Campus](https://studentvip.com.au/newcastle/newcastle/maps/103159)
+9      |  [Exploring Mathematical Relationships Part 1](week-9/)        |  Monday 23rd July 5:00pm - 7:00pm                                |  [HC47, Hunter Building @ the Callaghan Campus](https://studentvip.com.au/newcastle/newcastle/maps/103159)
 10     |  Exploring Mathematical Relationships Part 2        |  Monday 30th July 5:00pm - 7:00pm                                |  [HC47, Hunter Building @ the Callaghan Campus](https://studentvip.com.au/newcastle/newcastle/maps/103159)
 {: .table .table-striped .table-bordered}

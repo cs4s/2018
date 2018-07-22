@@ -18,7 +18,7 @@ The activities in the Module also build on mathematical concepts from previous w
 
 ## Metalanguage
 
-[algorithm](){: .metalanguage }, [computational thinking](){: .metalanguage }, [computational concept](){: .metalanguage}, [coding](){: .metalanguage }, [visual programming](){: .metalanguage }, [sequences](){: .metalanguage }, [loops](){: .metalanguage }, [operators](){: .metalanguage}, [debugging](){: .metalanguage }, [custom block](){: .metalanguage}, [random](){: .metalanguage }, [conditionals](){: .metalanguage }, [broadcasting](){: .metalanguage}, [events](){: .metalanguage }, [sensing](){: .metalanguage }, [variables](){: .metalangauge }, [data](){: .metalanguage }
+[algorithm](){: .metalanguage }, [computational thinking](){: .metalanguage }, [computational concept](){: .metalanguage}, [coding](){: .metalanguage }, [visual programming](){: .metalanguage }, [sequences](){: .metalanguage }, [loops](){: .metalanguage }, [operators](){: .metalanguage}, [debugging](){: .metalanguage }, [custom block](){: .metalanguage}, [random](){: .metalanguage }, [conditionals](){: .metalanguage }, [broadcasting](){: .metalanguage}, [events](){: .metalanguage }, [sensing](){: .metalanguage }, [variables](){: .metalanguage }, [data](){: .metalanguage }
 
 ## Materials
 
@@ -32,12 +32,23 @@ The activities in the Module also build on mathematical concepts from previous w
 ### Activities
 
 - [Exploring Mathematical Relationships Part 1: Teacher Materials Part 1]({{ site.drive_url | append: '166SqqAcC39x_jQPBBLFcLF75gdCmsLAs' }}){:target="_blank"}
-- Need to add Unplugged handouts
+- [Unplugged Activity: 5.1.2 - Polygon Predictions Handout]({{ site.drive_url | append: '14x03W5ndo2zegijKedhstIzA2VLVtcWS' }}){:target="_blank"}
 - [Exploring Mathematical Relationships Resources Download Page](http://www.ucl.ac.uk/ioe/research/projects/scratchmaths/curriculum-materials/module-5-exploring-mathematical-relationships){:target="_blank"}
 
 ### Homework
 
-- [Week 9 Homework Task]({{ site.drive_url | append: '' }}) (Word document - Missing)
+For this week's homework task, we would like you to create a plan for a lesson that involves teaching Coding and Mathematics.
+We have created a template for you to complete for this task, which has sections for the different parts of the lesson.
+If you would like to, you can use ideas and activities from the ScratchMaths resources in your lesson plan.
+
+To complete this task, you can choose to either: 1) fill in the Google form linked below or 2) download the Word template and email that to Daniel when you have finished filling it in. 
+If you complete the Google form, you will not have to send Daniel an email because, once the form is completed, he will be sent an email automatically.
+
+If you use a different template for your lessons and would prefer to use that for this task, that is ok. 
+In that case, please send an email with the completed template to Daniel.
+
+- [Week 9 Homework Task Google Form Link](https://goo.gl/forms/8to8evSmKKYkIXEf2){:target="_blank"}
+- [Week 9 Homework Task]({{ site.drive_url | append: '11LfAQ_i9MWQlYjXvzG5Gs9RPv7bE8wlC' }}) (Word document)
 
 ### Links
 
