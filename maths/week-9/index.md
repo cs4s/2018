@@ -27,7 +27,7 @@ The activities in the Module also build on mathematical concepts from previous w
 - [Introduction to Exploring Mathematical Relationships]({{ site.drive_url | append: '1QqEP6GzFHndDYmZeOJhpZRMQ-IWgr7su' }}){:target="_blank"} (PDF Presentation)
 - [Exploring Mathematical Relationships Investigation 1]({{ site.drive_url | append: '1KaAvI3RluY_bM3huUI5DJWDSNUCjx-3x' }}){:target="_blank"} (PDF Presentation)
 - [Exploring Mathematical Relationships Investigation 2 Part 1]({{ site.drive_url | append: '1bsba0ZjaWEsLJ4tpT_cy_g4e_-xGyfPF' }}){:target="_blank"} (PDF Presentation)
-- [End of Session Presentation]({{ site.drive_url | append: '' }}){:target="_blank"} (PDF Presentation - Missing)
+- [End of Session Presentation]({{ site.drive_url | append: '16lLLduGm356x9KPLsilja8pJV8D8KtCu' }}){:target="_blank"} (PDF Presentation)
 
 ### Activities
 
