@@ -24,17 +24,26 @@ In the Part 2 session, we will focus on two activities from Unit 4 of the Creati
 ### Presentations
 
 - [Coding and Science and Technology Part 1]({{ site.drive_url | append: '10BJLCS1UQqZUthGw1GqozutMIB2GkVcy' }}){:target="_blank"} (PDF Presentation)
-- [End of Session Presentation]({{ site.drive_url | append: '' }}){:target="_blank"} (PDF Presentation - Missing)
+- [End of Session Presentation]({{ site.drive_url | append: '14pcrPGGZzM7IxBjsUs1GbyXufe-_DEB5' }}){:target="_blank"} (PDF Presentation)
 
-### Scratch Activities
+### Activities
+
+#### Scratch
 
 - [Video Sensing]({{ site.drive_url | append: '175uGJ7VJ6qxH4jMYJVKcmqkEHBRHGBXQ' }}){:target="_blank"} (PDF Document)
 - [Cloning]({{ site.drive_url | append: '1utgzZFOCVrBMlEKLSXPNZDVNkCH69O0q' }}){:target="_blank"} (PDF Document)
 
-### Micro:bit Activities
+#### Micro:bit
 
 - [Making an Interactive Badge]({{ site.drive_url | append: '18qTiYEJjFIjCpzyEgin6n9GyyjwPJV5S' }}) (Word document)
 - [Making a Dice]({{ site.drive_url | append: '1LbrLfiqmVE6GbGh3bkE7XX9jsudYtOK4' }}) (Word document)
+
+#### Micro:bit Extension
+
+- [Microsoft Intro to CS: Rock - Paper - Scissors](https://makecode.microbit.org/projects/rock-paper-scissors){:target="_blank"}
+- [Microsoft Intro to CS: Hack your Headphones](https://makecode.microbit.org/projects/hack-your-headphones){:target="_blank"}
+- [Code Club Project: Fortune Teller](https://codeclubprojects.org/en-GB/microbit/fortune-teller/){:target="_blank"}
+- [Code Club Project: Against the Clock](https://codeclubprojects.org/en-GB/microbit/against-the-clock/){:target="_blank"}
 
 ### Creative Computing Units
 
