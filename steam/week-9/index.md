@@ -7,13 +7,31 @@ title: Week 9 - Coding & STEAM - Coding in Stage 3
 
 ## About
 
-In the Coding and Mathematics sessions, you will learn how the creation of games in Scratch can be linked to the teaching of Mathematics concepts.  
+In the Week 9 and 10 sessions, you will learn about what *Physical Computing* is and how projects that incorporate *Physical Computing* can be linked to outcomes in the new *Science and Technology K-6* syllabus. 
+The focus of the activities will be on the *Technology* outcomes but we hope to demonstrate that the use of *Physical Computing* in projects can help students learn and reinforce concepts from a variety of *Key Learning Areas*.
 
-The session’s activities have been adapted from Unit 4 (Games) of the Creative Computing Curriculum guide. 
-The activities in Unit 4 are intended to encourage students to develop Scratch projects are personally relevant and meaningful to them. 
-The authors of the guide argue that this personal relevance and meaning will help students persevere when they encounter challenging problems when Coding in Scratch.
+*Physical Computing* usually refers to designing and developing computer hardware and software that involves some physical interaction or the use of sensors. 
+This physical interaction could be a different way of interacting with the computer, which may not involve using a mouse and keyboard. 
+In this session, we will focus on alternative forms of physical interaction, such as *Video Sensing* in *Scratch* and programs created in *MakeCode* that respond to pressing a button on, or shaking, a device (a *Micro:bit*).
 
-In the Part 2 session, we will focus on two activities from Unit 4 of the Creative Computing Curriculum guide: *Debug It!* and *Interactions*.
+![](images/no_keyboard.png){: .pc-diagram }
+{: .text-center }
+<br />
+*A diagram that summarises Physical Computing - there is no keyboard and mouse input - sensors are used instead.*{: .description}
+{: .text-center }
+
+There are a variety of devices that are used for teaching *Physical Computing* in schools. 
+Examples of these devices include [Makey Makeys](https://makeymakey.com/), [LEGO WeDo](https://education.lego.com/en-us/elementary/shop/wedo-2) and [Arduinos](https://www.arduino.cc/). The increased availability and affordability of these devices has helped spur on the ["Maker Movement"](https://www.techopedia.com/definition/28408/maker-movement). This is encouraging for **STEAM** (**S**cience, **T**echnology, **E**ngineering, **A**rts and **M**athematics) education, because being a *Maker* usually involves using skills from all of these these disciplines to create a real, tangible invention.
+
+This [guitar created with a MaKey MaKey and Scratch](https://arraywhiz52446.wordpress.com/2015/05/28/k-2-makey-makey-project-part-i/) is an example of a **STEAM** project that could be created by Stage 3 students with a *Physical Computing* device. This project involves:
+
+- **Science:** students would have to build a circuit as part of the project, which will connect the different guitar strings to the *MaKey MaKey*
+- **Technology:** students would write code in *Scratch* that would play notes when different keys are pressed
+- **Engineering:** students would design and prototype a product (the guitar)
+- **Arts:** students would use different musical notes play in their *Scratch* project and could create compositions with the guitar they make
+- **Mathematics:** students would use whole numbers when learning about musical notes that are represented in MIDI and they may also learn about the relationship between MIDI notes and their pitch (for example, the higher the number for a MIDI note is, the higher its pitch will be). 
+
+In this session, you will learn about two ways of using *Physical Computing*: *Video Sensing* in *Scratch* and using [BBC Micro:bits](http://microbit.org/) devices.
 
 ## Metalanguage
 
@@ -77,7 +95,7 @@ In that case, please send an email with the completed template to Daniel.
 
 - [Some Reflections on Designing Construction Kits for Kids ](https://web.media.mit.edu/~mres/papers/IDC-2005.pdf){:target="_blank"}
 - [Physical Computing and its Scope – Towards a Constructionist Computer Science Curriculum with Physical Computing](https://files.eric.ed.gov/fulltext/EJ1064332.pdf){:target="_blank"}
-- [Digital Fabrication and ‘Making’ in Education: The Democratization of Invention](https://s3.amazonaws.com/academia.edu.documents/30555959/Blikstein-2013-Making_The_Democratization_of_Invention.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1532506290&Signature=YTpXnx0nw2ok4mVsVMAdvz3OF9A%3D&response-content-disposition=inline%3B%20filename%3DDigital_Fabrication_and_Making_in_Educat.pdf){:target="_blank"}
+- [Digital Fabrication and 'Making' in Education: The Democratization of Invention](https://s3.amazonaws.com/academia.edu.documents/30555959/Blikstein-2013-Making_The_Democratization_of_Invention.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1532506290&Signature=YTpXnx0nw2ok4mVsVMAdvz3OF9A%3D&response-content-disposition=inline%3B%20filename%3DDigital_Fabrication_and_Making_in_Educat.pdf){:target="_blank"}
 
 ## Session Outcomes
 
@@ -148,8 +166,6 @@ In that case, please send an email with the completed template to Daniel.
 | Creative and Creative Thinking Capability Element                       | How this Element is addressed                                                                                                                                                                                                                                                                                                               |
 |:------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Inquiring – identifying, exploring and organising information and ideas | In this session, you will learn about how *Micro:bits* (and similar *Physical Computing* devices) can be used as part of scientific experiments. If you ran a project in which your students planned and conducted a scientific experiment, they could use the *Micro:bits'* sensors to collect data related to the subject of the inquiry. |
-|                                                                         |                                                                                                                                                                                                                                                                                                                                             |
-|                                                                         |                                                                                                                                                                                                                                                                                                                                             |
 {: .table .table-striped .table-bordered}
 
 

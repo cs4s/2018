@@ -248,3 +248,11 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 .outcome-body, .glossary-body ul, .glossary-body ol  {
   font-family: Georgia, 'Times New Roman', Times, serif;
 }
+
+.description {
+  font-size: 0.9rem
+}
+
+.pc-diagram {
+  padding: 2em;
+}
