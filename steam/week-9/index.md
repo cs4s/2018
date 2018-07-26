@@ -21,17 +21,17 @@ In this session, we will focus on alternative forms of physical interaction, suc
 {: .text-center }
 
 There are a variety of devices that are used for teaching *Physical Computing* in schools. 
-Examples of these devices include [Makey Makeys](https://makeymakey.com/), [LEGO WeDo](https://education.lego.com/en-us/elementary/shop/wedo-2) and [Arduinos](https://www.arduino.cc/). The increased availability and affordability of these devices has helped spur on the ["Maker Movement"](https://www.techopedia.com/definition/28408/maker-movement). This is encouraging for **STEAM** (**S**cience, **T**echnology, **E**ngineering, **A**rts and **M**athematics) education, because being a *Maker* usually involves using skills from all of these these disciplines to create a real, tangible invention.
+Examples of these devices include [Makey Makeys](https://makeymakey.com/){: target="_blank" }, [LEGO WeDo](https://education.lego.com/en-us/elementary/shop/wedo-2){: target="_blank" } and [Arduinos](https://www.arduino.cc/){: target="_blank" }. The increased availability and affordability of these devices has helped spur on the ["Maker Movement"](https://www.techopedia.com/definition/28408/maker-movement){: target="_blank" }. This is encouraging for **STEAM** (**S**cience, **T**echnology, **E**ngineering, **A**rts and **M**athematics) education, because being a *Maker* usually involves using skills from all of these disciplines to create a real, tangible invention.
 
-This [guitar created with a MaKey MaKey and Scratch](https://arraywhiz52446.wordpress.com/2015/05/28/k-2-makey-makey-project-part-i/) is an example of a **STEAM** project that could be created by Stage 3 students with a *Physical Computing* device. This project involves:
+This [guitar created with a MaKey MaKey and Scratch](https://arraywhiz52446.wordpress.com/2015/05/28/k-2-makey-makey-project-part-i/){: target="_blank" } is an example of a **STEAM** project that could be created by Stage 3 students with a *Physical Computing* device. This project involves:
 
-- **Science:** students would have to build a circuit as part of the project, which will connect the different guitar strings to the *MaKey MaKey*
-- **Technology:** students would write code in *Scratch* that would play notes when different keys are pressed
-- **Engineering:** students would design and prototype a product (the guitar)
-- **Arts:** students would use different musical notes play in their *Scratch* project and could create compositions with the guitar they make
-- **Mathematics:** students would use whole numbers when learning about musical notes that are represented in MIDI and they may also learn about the relationship between MIDI notes and their pitch (for example, the higher the number for a MIDI note is, the higher its pitch will be). 
+- **Science:** students would have to build a circuit as part of the project, which will connect the different guitar strings to the *MaKey MaKey*.
+- **Technology:** students would write code in *Scratch* that would play notes when different keys are pressed.
+- **Engineering:** students would design and prototype a product (the guitar).
+- **Arts:** students would use different musical notes play in their *Scratch* project and could create compositions with the guitar they make.
+- **Mathematics:** students would use whole numbers when learning about musical notes that are represented in MIDI and they may also learn about the relationship between MIDI notes and their pitch (for example, the higher the number for a MIDI note is, the higher its pitch will be).
 
-In this session, you will learn about two ways of using *Physical Computing*: *Video Sensing* in *Scratch* and using [BBC Micro:bits](http://microbit.org/) devices.
+In this session, you will learn about two ways of using *Physical Computing*: *Video Sensing* in *Scratch* and using [BBC Micro:bits](http://microbit.org/){: target="_blank" } devices.
 
 ## Metalanguage
 
