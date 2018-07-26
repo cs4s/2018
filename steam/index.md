@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Coding in Stage 3 - Coding & STEAM - Schedule
+title: Coding in Stage 3 - Coding and STEAM - Schedule
 ---
 
 # Coding & STEAM Program
