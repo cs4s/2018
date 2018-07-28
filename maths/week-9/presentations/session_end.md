@@ -14,7 +14,6 @@
 
 - We started the fifth Module: *Exploring Mathematical Relationships*
 - Included learning about:
-
 	- **Computational Concepts:** *Sequences*, *Loops*, *Events* and *Data*
 	- **Mathematics Concepts:** *Polygons*, *Co-ordinates* and *Calculating Angles*
 
