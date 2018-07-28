@@ -35,6 +35,7 @@ The activities in the *Exploring Mathematical Relationships* Module also build o
 
 ### Activities
 
+- [Scratch 3 Preview](https://preview.scratch.mit.edu/){:target="_blank"}
 - [Exploring Mathematical Relationships Investigation 2 Teacher Materials]({{ site.drive_url | append: '1vBTtZjXgOEooEFrQlx6hMtI_oGKDyuqR' }}){:target="_blank"} (PDF Document) 
 - [5.2.3 Unplugged - Exploring Mathematical Relationships Handout]({{ site.drive_url | append: '1LNHAHNCBN0yC0M5ZtWhNFA_rvg-XEit0' }}){:target="_blank"} (PDF Document)
 - [5.2.4 Unplugged - Rectangle Jumble Handout]({{ site.drive_url | append: '1747K6Xm_eD5WIEdkd5r0lRZXL_eChJfy' }}){:target="_blank"} (PDF Document)
