@@ -78,5 +78,5 @@
 - Now, we will ask you to complete an online survey in "Exam Conditions"
 - Link is on the website: *End of Program Survey*
 - Should take 30-40 minutes to complete
-- Let us know when you finish
+- If you finish early, try out the [Scratch 3 Preview](https://preview.scratch.mit.edu/)
 - After that, we'll move onto Investigation 2 from the *Exploring Mathematical Relationships* module
