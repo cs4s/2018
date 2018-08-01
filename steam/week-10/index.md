@@ -45,7 +45,7 @@ In this session, you will learn about two ways of using *Physical Computing*: *V
 
 ### Presentations
 
-- [End of Program Presentation]({{ site.drive_url | append: '' }}){:target="_blank"} (PDF Presentation - Missing)
+- [End of Program Presentation]({{ site.drive_url | append: '1M0pPPAZ7Jmfu0Gv0GuoZJr4lLLa9FfR9' }}){:target="_blank"} (PDF Presentation)
 - [Recap of Last Session (Coding and Science and Technology Part 1)]({{ site.drive_url | append: '' }}){:target="_blank"} (PDF Presentation - Missing)
 - [End of Session Presentation]({{ site.drive_url | append: '' }}){:target="_blank"} (PDF Presentation - Missing)
 
