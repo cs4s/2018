@@ -53,7 +53,7 @@ In this session, you will learn about two ways of using *Physical Computing*: *V
 
 #### Scratch
 
-- [Scratch 3 Preview](http://preview.scratch.mit.edu/){:target="_blank"}
+- [Scratch 3 Beta](http://beta.scratch.mit.edu/){:target="_blank"}
 - [Video Sensing]({{ site.drive_url | append: '175uGJ7VJ6qxH4jMYJVKcmqkEHBRHGBXQ' }}){:target="_blank"} (PDF Document)
 - [Cloning]({{ site.drive_url | append: '1utgzZFOCVrBMlEKLSXPNZDVNkCH69O0q' }}){:target="_blank"} (PDF Document)
 

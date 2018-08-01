@@ -78,5 +78,5 @@
 - Now, we will ask you to complete an online survey in "Exam Conditions"
 - Link is on the website (under the *Links* heading, towards the bottom): *End of Program Survey*
 - Should take 30-40 minutes to complete
-- If you finish early, try out the [Scratch 3 Preview](https://preview.scratch.mit.edu/)
+- If you finish early, try out the [Scratch 3 Beta](https://beta.scratch.mit.edu/)
 - After that, we'll move onto some more *Micro:bit* activities (or *Video Sensing* if you would like to)
