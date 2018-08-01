@@ -31,7 +31,7 @@
 
 - Plan another lesson that involves the teaching of *Coding* alongside *Mathematics*
 - You can complete the template that we have created
-- Fill in the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSfF8FOvcyFbrPOKi_zm2fsv-VCJ5WC4tlxQB5xZu7eSv0wK1A/viewform) or complete and email the Word template on the Week 9 session page
+- Fill in the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSfF8FOvcyFbrPOKi_zm2fsv-VCJ5WC4tlxQB5xZu7eSv0wK1A/viewform) or complete and email the Word template on the Week 10 session page
 - You can adapt ideas and activities from the *ScratchMaths* modules and investigations (or other resources)
 
 ---
