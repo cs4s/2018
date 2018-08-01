@@ -18,5 +18,5 @@ title: Coding in Stage 3 - Coding and STEAM - Schedule
 7      |  [Coding and Mathematics Part 1](week-7/)                      |  Friday 29th June 4:30pm - 6:30pm  |  [HC47, Hunter Building @ the Callaghan Campus](https://studentvip.com.au/newcastle/newcastle/maps/103159)
 8      |  [Coding and Mathematics Part 2](week-8/)                      |  Friday 6th July 4:30pm - 6:30pm   |  [HC47, Hunter Building @ the Callaghan Campus](https://studentvip.com.au/newcastle/newcastle/maps/103159)
 9      |  [Coding and Science and Technology Part 1](week-9/)           |  Friday 27th July 4:30pm - 6:30pm  |  [HC47, Hunter Building @ the Callaghan Campus](https://studentvip.com.au/newcastle/newcastle/maps/103159)
-10     |  Coding and Science and Technology Part 2           |  Friday 3rd August 4:30pm - 6:30pm  |  [HC47, Hunter Building @ the Callaghan Campus](https://studentvip.com.au/newcastle/newcastle/maps/103159)
+10     |  [Coding and Science and Technology Part 2](week-10/)          |  Friday 3rd August 4:30pm - 6:30pm  |  [HC47, Hunter Building @ the Callaghan Campus](https://studentvip.com.au/newcastle/newcastle/maps/103159)
 {: .table .table-striped .table-bordered}
